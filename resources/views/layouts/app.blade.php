@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
+    @yield('head')
 </head>
 
 <body class="min-h-screen flex flex-col bg-gray-100 text-gray-900">

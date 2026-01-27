@@ -1,7 +1,74 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Http\Request;
+use App\Http\Controllers\PagesController;
+use App\Http\Controllers\Admin\PaymentMethodController;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+/*
+|--------------------------------------------------------------------------
+| Frontend Routes
+|--------------------------------------------------------------------------
+*/
+Route::get('/', [PagesController::class, 'home'])->name('home');
+Route::get('/about', [PagesController::class, 'about'])->name('about');
+Route::get('/contact', [PagesController::class, 'contact'])->name('contact');
+Route::get('/product', [PagesController::class, 'product'])->name('product');
+Route::get('/product/{id}', [PagesController::class, 'product_detail'])->name('product_detail');
+Route::get('/checkout', [PagesController::class, 'checkout'])->name('checkout');
+Route::get('/wishlist', [PagesController::class, 'wishlist'])->name('wishlist');
+Route::get('/cart', [PagesController::class, 'cart'])->name('cart');
+Route::get('/vote', [PagesController::class, 'vote'])->name('vote');
+
+Route::post('/contact', [PagesController::class, 'submitContact'])->name('contact.submit');
+Route::post('/review', [PagesController::class, 'submitReview'])->name('review.submit');
+Route::post('/vote', [PagesController::class, 'submitVote'])->name('vote.submit');
+
+/*
+|--------------------------------------------------------------------------
+| Admin Password Lock
+|--------------------------------------------------------------------------
+*/
+Route::get('/admin/lock', fn () => view('admin.lock'))->name('admin.lock');
+
+Route::post('/admin/unlock', function (Request $request) {
+    if ($request->password === config('custom.password')) {
+        session(['admin_passed' => true]);
+        return redirect('/admin');
+    }
+
+    return back()->withErrors([
+        'password' => 'Wrong password',
+    ]);
+})->name('admin.unlock');
+
+/*
+|--------------------------------------------------------------------------
+| Admin Entry Point
+|--------------------------------------------------------------------------
+*/
+Route::get('/admin', fn () =>
+    redirect()->route('admin.payment-methods.index')
+);
+
+/*
+|--------------------------------------------------------------------------
+| Admin Protected Routes
+|--------------------------------------------------------------------------
+*/
+Route::prefix('admin')
+    ->middleware('admin.lock')
+    ->name('admin.')
+    ->group(function () {
+        Route::resource('payment-methods', PaymentMethodController::class);
+    });
+
+/*
+|--------------------------------------------------------------------------
+| Admin Logout
+|--------------------------------------------------------------------------
+*/
+Route::post('/admin/logout', function () {
+    session()->forget('admin_passed');
+    return redirect('/');
+})->name('admin.logout');
