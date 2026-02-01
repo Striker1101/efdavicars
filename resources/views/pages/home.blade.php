@@ -4023,752 +4023,6 @@
 
 @section('content')
 
-    <body
-        class="home wp-singular page-template-default page page-id-18822 wp-custom-logo wp-embed-responsive wp-theme-greeny theme-greeny hide_fixed_rows_enabled frontpage woocommerce-no-js tinvwl-theme-style skin_default scheme_default blog_mode_front body_style_fullscreen  is_stream blog_style_excerpt sidebar_hide expand_content remove_margins trx_addons_present header_type_custom header_style_header-custom-16981 header_position_default menu_side_none no_layout fixed_blocks_sticky elementor-default elementor-kit-15 elementor-page elementor-page-18822">
-
-
-        <div class="body_wrap">
-
-
-            <div class="page_wrap">
-
-
-                <a class="greeny_skip_link skip_to_content_link" href="#content_skip_link_anchor" tabindex="0">Skip to
-                    content</a>
-                <a class="greeny_skip_link skip_to_footer_link" href="#footer_skip_link_anchor" tabindex="0">Skip to
-                    footer</a>
-
-                <header
-                    class="top_panel top_panel_custom top_panel_custom_16981 top_panel_custom_header-main-greeny				 without_bg_image">
-                    <div data-elementor-type="cpt_layouts" data-elementor-id="16981" class="elementor elementor-16981">
-                        <section
-                            class="elementor-section elementor-top-section elementor-element elementor-element-dda2204 elementor-section-full_width elementor-section-content-middle sc_layouts_row sc_layouts_row_type_compact sc_layouts_hide_on_tablet sc_layouts_hide_on_mobile scheme_light elementor-section-height-default elementor-section-height-default sc_fly_static"
-                            data-id="dda2204" data-element_type="section">
-                            <div class="elementor-container elementor-column-gap-extended">
-                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5b70e8c4 sc_layouts_column_align_left sc_layouts_column sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="5b70e8c4" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-13620b logo_margin sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo"
-                                            data-id="13620b" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_logo.default">
-                                            <div class="elementor-widget-container">
-                                                <a href="#"
-                                                    class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_620922289"><img
-                                                        loading="lazy" class="logo_image"
-                                                        src="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo.png"
-                                                        srcset="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo2x.png 2x"
-                                                        alt="Greeny" width="173" height="46"></a>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-cfb610f sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_menu"
-                                            data-id="cfb610f" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_menu.default">
-                                            <div class="elementor-widget-container">
-                                                <nav class="sc_layouts_menu sc_layouts_menu_default sc_layouts_menu_dir_horizontal menu_hover_zoom_line"
-                                                    data-animation-in="fadeIn" data-animation-out="fadeOut">
-                                                    <ul id="sc_layouts_menu_295822849" class="sc_layouts_menu_nav">
-                                                        <li id="menu-item-18827"
-                                                            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-18827">
-                                                            <a href="#"><span>Home</span></a>
-                                                            <ul class="sub-menu">
-                                                                <li id="menu-item-18826"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18822 current_page_item menu-item-18826">
-                                                                    <a href="https://greeny.axiomthemes.com/"
-                                                                        aria-current="page"><span>Main</span></a>
-                                                                </li>
-                                                                <li id="menu-item-18829"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18829">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/electric-cars/"><span>Electric
-                                                                            Cars</span></a>
-                                                                </li>
-                                                                <li id="menu-item-18832"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18832">
-                                                                    <a href="https://greeny.axiomthemes.com/ev-servicing/"><span>EV
-                                                                            Servicing</span></a>
-                                                                </li>
-                                                                <li id="menu-item-18835"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18835">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/charging-station/"><span>Charging
-                                                                            Station</span></a>
-                                                                </li>
-                                                                <li id="menu-item-18839"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18839">
-                                                                    <a href="https://greeny.axiomthemes.com/ev-charging/"><span>EV
-                                                                            Charging</span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li id="menu-item-19324"
-                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19324">
-                                                            <a href="#"><span>Services</span></a>
-                                                            <ul class="sub-menu">
-                                                                <li id="menu-item-18842"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18842">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/charging-solutions/"><span>Charging
-                                                                            Solutions</span></a>
-                                                                </li>
-                                                                <li id="menu-item-18844"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18844">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/servicing-repair/"><span>Servicing
-                                                                            &#038; Repair</span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li id="menu-item-18847"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18847">
-                                                            <a href="https://greeny.axiomthemes.com/about-us/"><span>About
-                                                                    Us</span></a>
-                                                        </li>
-                                                        <li id="menu-item-18848"
-                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18848">
-                                                            <a href="#"><span>Pages</span></a>
-                                                            <ul class="sub-menu">
-                                                                <li id="menu-item-18849"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18849">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/typography/"><span>Typography</span></a>
-                                                                </li>
-                                                                <li id="menu-item-18850"
-                                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18850">
-                                                                    <a href="https://greeny.axiomthemes.com/404"><span>404
-                                                                            Page</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19150"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19150">
-                                                                    <a href="https://greeny.axiomthemes.com/service-plus/"><span>Service
-                                                                            Plus</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19941"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19941">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/newsletter-popups/"><span>Newsletter
-                                                                            Popups</span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li id="menu-item-18851"
-                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18851">
-                                                            <a href="#"><span>Shop</span></a>
-                                                            <ul class="sub-menu">
-                                                                <li id="menu-item-19288"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19288">
-                                                                    <a href="https://greeny.axiomthemes.com/shop/"><span>Product
-                                                                            List</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19284"
-                                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19284">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/product/leather-backpack/"><span>Product
-                                                                            Single</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19286"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19286">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/cart/"><span>Cart</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19287"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19287">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/checkout/"><span>Checkout</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19290"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19290">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/wishlist-page/"><span>Wishlist</span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li id="menu-item-19946"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19946">
-                                                            <a
-                                                                href="https://greeny.axiomthemes.com/blog/"><span>Blog</span></a>
-                                                        </li>
-                                                        <li id="menu-item-18853"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18853">
-                                                            <a
-                                                                href="https://greeny.axiomthemes.com/contact/"><span>Contact</span></a>
-                                                        </li>
-                                                    </ul>
-                                                </nav>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-5117b5cc sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_search"
-                                            data-id="5117b5cc" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_search.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_layouts_search">
-                                                    <div class="search_modern">
-                                                        <span class="search_submit"></span>
-                                                        <div class="search_wrap scheme_dark">
-                                                            <div class="search_header_wrap"><img loading="lazy"
-                                                                    class="logo_image"
-                                                                    src="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo_inverse.png"
-                                                                    srcset="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo_inverse2x.png 2x"
-                                                                    alt="Greeny" width="173" height="46"> <a
-                                                                    class="search_close"></a>
-                                                            </div>
-                                                            <div class="search_form_wrap">
-                                                                <form role="search" method="get" class="search_form"
-                                                                    action="https://greeny.axiomthemes.com/">
-                                                                    <input type="hidden" value=""
-                                                                        name="post_types">
-                                                                    <input type="text" class="search_field"
-                                                                        placeholder="Type words and hit enter"
-                                                                        value="" name="s">
-                                                                    <button type="submit" class="search_submit"></button>
-                                                                </form>
-                                                            </div>
-                                                        </div>
-                                                        <div class="search_overlay scheme_dark"></div>
-                                                    </div>
-
-
-                                                </div><!-- /.sc_layouts_search -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3742cd7a sc_layouts_column_align_right sc_layouts_column sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="3742cd7a" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-98552ab phone_margin sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_iconed_text"
-                                            data-id="98552ab" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_iconed_text.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_layouts_iconed_text">
-                                                    <a href="tel:18004585697" class="flex items-center gap-2">
-                                                        <i class="fa-solid fa-phone-volume"></i>
-                                                        <span>1 800 458 56 97</span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-5451514e sc_fly_static elementor-widget elementor-widget-trx_sc_button"
-                                            data-id="5451514e" data-element_type="widget"
-                                            data-widget_type="trx_sc_button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_item_button sc_button_wrap"><a
-                                                        href="https://greeny.axiomthemes.com/contact/"
-                                                        class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link3"><span
-                                                            class="sc_button_text"><span class="sc_button_title">Let's
-                                                                Talk</span></span></a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section data-fixed-row-delay="0.75"
-                            class="elementor-section elementor-top-section elementor-element elementor-element-0b5c6fe elementor-section-full_width elementor-section-content-middle sc_layouts_row sc_layouts_row_type_compact sc_layouts_hide_on_tablet sc_layouts_hide_on_mobile elementor-section-height-min-height sc_layouts_row_fixed sc_layouts_row_fixed_always sc_layouts_row_delay_fixed sc_layouts_row_hide_unfixed elementor-section-height-default elementor-section-items-middle sc_fly_static sc_layouts_row_fixed_ater_scroll"
-                            data-id="0b5c6fe" data-element_type="section">
-                            <div class="elementor-container elementor-column-gap-extended">
-                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8d8a505 sc_layouts_column_align_left sc_layouts_column sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="8d8a505" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-f617bce logo_margin sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo"
-                                            data-id="f617bce" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_logo.default">
-                                            <div class="elementor-widget-container">
-                                                <a href="#"
-                                                    class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_90185351"><img
-                                                        loading="lazy" class="logo_image"
-                                                        src="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo.png"
-                                                        srcset="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo2x.png 2x"
-                                                        alt="Greeny" width="173" height="46"></a>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-ebadef2 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_menu"
-                                            data-id="ebadef2" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_menu.default">
-                                            <div class="elementor-widget-container">
-                                                <nav class="sc_layouts_menu sc_layouts_menu_default sc_layouts_menu_dir_horizontal menu_hover_zoom_line"
-                                                    data-animation-in="fadeIn" data-animation-out="fadeOut">
-                                                    <ul id="sc_layouts_menu_803337901" class="sc_layouts_menu_nav">
-                                                        <li id="menu-item-19293"
-                                                            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-19293">
-                                                            <a href="#"><span>Home</span></a>
-                                                            <ul class="sub-menu">
-                                                                <li id="menu-item-19296"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18822 current_page_item menu-item-19296">
-                                                                    <a href="https://greeny.axiomthemes.com/"
-                                                                        aria-current="page"><span>Main</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19304"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19304">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/electric-cars/"><span>Electric
-                                                                            Cars</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19306"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19306">
-                                                                    <a href="https://greeny.axiomthemes.com/ev-servicing/"><span>EV
-                                                                            Servicing</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19301"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19301">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/charging-station/"><span>Charging
-                                                                            Station</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19305"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19305">
-                                                                    <a href="https://greeny.axiomthemes.com/ev-charging/"><span>EV
-                                                                            Charging</span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li id="menu-item-19329"
-                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19329">
-                                                            <a href="#"><span>Services</span></a>
-                                                            <ul class="sub-menu">
-                                                                <li id="menu-item-19300"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19300">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/charging-solutions/"><span>Charging
-                                                                            Solutions</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19309"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19309">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/servicing-repair/"><span>Servicing
-                                                                            &#038; Repair</span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li id="menu-item-19298"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19298">
-                                                            <a href="https://greeny.axiomthemes.com/about-us/"><span>About
-                                                                    Us</span></a>
-                                                        </li>
-                                                        <li id="menu-item-19294"
-                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19294">
-                                                            <a href="#"><span>Pages</span></a>
-                                                            <ul class="sub-menu">
-                                                                <li id="menu-item-19311"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19311">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/typography/"><span>Typography</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19314"
-                                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19314">
-                                                                    <a href="https://greeny.axiomthemes.com/404"><span>404
-                                                                            Page</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19308"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19308">
-                                                                    <a href="https://greeny.axiomthemes.com/service-plus/"><span>Service
-                                                                            Plus</span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li id="menu-item-19295"
-                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19295">
-                                                            <a href="#"><span>Shop</span></a>
-                                                            <ul class="sub-menu">
-                                                                <li id="menu-item-19310"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19310">
-                                                                    <a href="https://greeny.axiomthemes.com/shop/"><span>Product
-                                                                            List</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19313"
-                                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19313">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/product/leather-backpack/"><span>Product
-                                                                            Single</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19299"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19299">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/cart/"><span>Cart</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19302"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19302">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/checkout/"><span>Checkout</span></a>
-                                                                </li>
-                                                                <li id="menu-item-19312"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19312">
-                                                                    <a
-                                                                        href="https://greeny.axiomthemes.com/wishlist-page/"><span>Wishlist</span></a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li id="menu-item-19947"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19947">
-                                                            <a
-                                                                href="https://greeny.axiomthemes.com/blog/"><span>Blog</span></a>
-                                                        </li>
-                                                        <li id="menu-item-19303"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19303">
-                                                            <a
-                                                                href="https://greeny.axiomthemes.com/contact/"><span>Contact</span></a>
-                                                        </li>
-                                                    </ul>
-                                                </nav>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-8734d73 sc_layouts_hide_on_notebook sc_layouts_hide_on_tablet sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_search"
-                                            data-id="8734d73" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_search.default">
-                                            <div class="elementor-widget-container">
-                                                <div
-                                                    class="sc_layouts_search hide_on_notebook hide_on_tablet hide_on_mobile">
-                                                    <div class="search_modern">
-                                                        <span class="search_submit"></span>
-                                                        <div class="search_wrap scheme_dark">
-                                                            <div class="search_header_wrap"><img loading="lazy"
-                                                                    class="logo_image"
-                                                                    src="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo_inverse.png"
-                                                                    srcset="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo_inverse2x.png 2x"
-                                                                    alt="Greeny" width="173" height="46"> <a
-                                                                    class="search_close"></a>
-                                                            </div>
-                                                            <div class="search_form_wrap">
-                                                                <form role="search" method="get" class="search_form"
-                                                                    action="https://greeny.axiomthemes.com/">
-                                                                    <input type="hidden" value=""
-                                                                        name="post_types">
-                                                                    <input type="text" class="search_field"
-                                                                        placeholder="Type words and hit enter"
-                                                                        value="" name="s">
-                                                                    <button type="submit" class="search_submit"></button>
-                                                                </form>
-                                                            </div>
-                                                        </div>
-                                                        <div class="search_overlay scheme_dark"></div>
-                                                    </div>
-
-
-                                                </div><!-- /.sc_layouts_search -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1b9d7ee sc_layouts_column_align_right sc_layouts_column sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="1b9d7ee" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-d466509 phone_margin sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_iconed_text"
-                                            data-id="d466509" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_iconed_text.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_layouts_iconed_text"><a href="tel:18004585697"
-                                                        class="sc_layouts_item_link sc_layouts_iconed_text_link"><span
-                                                            class="sc_layouts_item_icon sc_layouts_iconed_text_icon icon-phone-call sc_icon_type_icons"></span><span
-                                                            class="sc_layouts_item_details sc_layouts_iconed_text_details"><span
-                                                                class="sc_layouts_item_details_line2 sc_layouts_iconed_text_line2">1
-                                                                800 458 56 97</span></span></a></div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-3f7f29e sc_fly_static elementor-widget elementor-widget-trx_sc_button"
-                                            data-id="3f7f29e" data-element_type="widget"
-                                            data-widget_type="trx_sc_button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_item_button sc_button_wrap"><a
-                                                        href="https://greeny.axiomthemes.com/contact/"
-                                                        class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link3"><span
-                                                            class="sc_button_text"><span class="sc_button_title">Let's
-                                                                Talk</span></span></a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-top-section elementor-element elementor-element-9b47173 elementor-section-content-middle sc_layouts_row sc_layouts_row_type_compact sc_layouts_hide_on_wide sc_layouts_hide_on_desktop sc_layouts_hide_on_notebook sc_layouts_row_fixed sc_layouts_row_fixed_always elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static sc_layouts_row_fixed_ater_scroll"
-                            data-id="9b47173" data-element_type="section"
-                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                            <div class="elementor-container elementor-column-gap-extended">
-                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-47bf8dc sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="47bf8dc" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-595adcb sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo"
-                                            data-id="595adcb" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_logo.default">
-                                            <div class="elementor-widget-container">
-                                                <a href="#"
-                                                    class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1018656148"><img
-                                                        loading="lazy" class="logo_image"
-                                                        src="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo.png"
-                                                        srcset="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo2x.png 2x"
-                                                        alt="Greeny" width="173" height="46"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-154c173 sc_layouts_column_align_right sc_layouts_column sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="154c173" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-5e80f53 scheme_light sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_menu"
-                                            data-id="5e80f53" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_menu.default">
-                                            <div class="elementor-widget-container">
-                                                <div
-                                                    class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button without_menu">
-                                                    <a class="sc_layouts_item_link sc_layouts_iconed_text_link"
-                                                        href="#" role="button">
-                                                        <span
-                                                            class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-59ec0af sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_search"
-                                            data-id="59ec0af" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_search.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_layouts_search">
-                                                    <div class="search_modern">
-                                                        <span class="search_submit"></span>
-                                                        <div class="search_wrap scheme_dark">
-                                                            <div class="search_header_wrap"><img loading="lazy"
-                                                                    class="logo_image"
-                                                                    src="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo_inverse.png"
-                                                                    srcset="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo_inverse2x.png 2x"
-                                                                    alt="Greeny" width="173" height="46"> <a
-                                                                    class="search_close"></a>
-                                                            </div>
-                                                            <div class="search_form_wrap">
-                                                                <form role="search" method="get" class="search_form"
-                                                                    action="https://greeny.axiomthemes.com/">
-                                                                    <input type="hidden" value=""
-                                                                        name="post_types">
-                                                                    <input type="text" class="search_field"
-                                                                        placeholder="Type words and hit enter"
-                                                                        value="" name="s">
-                                                                    <button type="submit" class="search_submit"></button>
-                                                                </form>
-                                                            </div>
-                                                        </div>
-                                                        <div class="search_overlay scheme_dark"></div>
-                                                    </div>
-
-
-                                                </div><!-- /.sc_layouts_search -->
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-20b28908 sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_iconed_text"
-                                            data-id="20b28908" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_iconed_text.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_layouts_iconed_text hide_on_mobile"><a
-                                                        href="tel:18004585697"
-                                                        class="sc_layouts_item_link sc_layouts_iconed_text_link"><span
-                                                            class="sc_layouts_item_icon sc_layouts_iconed_text_icon icon-phone-call sc_icon_type_icons"></span><span
-                                                            class="sc_layouts_item_details sc_layouts_iconed_text_details"><span
-                                                                class="sc_layouts_item_details_line2 sc_layouts_iconed_text_line2">1
-                                                                800 458 56 97</span></span></a></div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-ad25c72 sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-trx_sc_button"
-                                            data-id="ad25c72" data-element_type="widget"
-                                            data-widget_type="trx_sc_button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_item_button sc_button_wrap"><a
-                                                        href="https://greeny.axiomthemes.com/contact/"
-                                                        class="sc_button hide_on_mobile sc_button_default sc_button_size_small sc_button_icon_left color_style_link3"><span
-                                                            class="sc_button_text"><span class="sc_button_title">Let's
-                                                                Talk</span></span></a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </header>
-
-                <div class="menu_mobile_overlay scheme_dark"></div>
-                <div class="menu_mobile menu_mobile_fullscreen scheme_dark">
-                    <div class="menu_mobile_inner with_widgets">
-                        <div class="menu_mobile_header_wrap">
-                            <a class="sc_layouts_logo" href="https://greeny.axiomthemes.com/">
-                                <img loading="lazy"
-                                    src="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo_inverse.png"
-                                    srcset="//greeny.axiomthemes.com/wp-content/uploads/2022/02/logo_inverse2x.png 2x"
-                                    alt="Greeny" width="173" height="46"> </a>
-
-                            <span class="menu_mobile_close menu_button_close" tabindex="0"><span
-                                    class="menu_button_close_text">Close</span><span
-                                    class="menu_button_close_icon"></span></span>
-                        </div>
-                        <div class="menu_mobile_content_wrap content_wrap">
-                            <div class="menu_mobile_content_wrap_inner">
-                                <nav class="menu_mobile_nav_area">
-                                    <ul id="mobile-menu_mobile_549799309">
-                                        <li id="mobile-menu-item-18827"
-                                            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-18827">
-                                            <a href="#"><span>Home</span></a>
-                                            <ul class="sub-menu">
-                                                <li id="mobile-menu-item-18826"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18822 current_page_item menu-item-18826">
-                                                    <a href="https://greeny.axiomthemes.com/"
-                                                        aria-current="page"><span>Main</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-18829"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18829">
-                                                    <a href="https://greeny.axiomthemes.com/electric-cars/"><span>Electric
-                                                            Cars</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-18832"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18832">
-                                                    <a href="https://greeny.axiomthemes.com/ev-servicing/"><span>EV
-                                                            Servicing</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-18835"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18835">
-                                                    <a href="https://greeny.axiomthemes.com/charging-station/"><span>Charging
-                                                            Station</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-18839"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18839">
-                                                    <a href="https://greeny.axiomthemes.com/ev-charging/"><span>EV
-                                                            Charging</span></a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li id="mobile-menu-item-19324"
-                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19324">
-                                            <a href="#"><span>Services</span></a>
-                                            <ul class="sub-menu">
-                                                <li id="mobile-menu-item-18842"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18842">
-                                                    <a href="https://greeny.axiomthemes.com/charging-solutions/"><span>Charging
-                                                            Solutions</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-18844"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18844">
-                                                    <a href="https://greeny.axiomthemes.com/servicing-repair/"><span>Servicing
-                                                            &#038; Repair</span></a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li id="mobile-menu-item-18847"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18847">
-                                            <a href="https://greeny.axiomthemes.com/about-us/"><span>About Us</span></a>
-                                        </li>
-                                        <li id="mobile-menu-item-18848"
-                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18848">
-                                            <a href="#"><span>Pages</span></a>
-                                            <ul class="sub-menu">
-                                                <li id="mobile-menu-item-18849"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18849">
-                                                    <a
-                                                        href="https://greeny.axiomthemes.com/typography/"><span>Typography</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-18850"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18850">
-                                                    <a href="https://greeny.axiomthemes.com/404"><span>404 Page</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-19150"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19150">
-                                                    <a href="https://greeny.axiomthemes.com/service-plus/"><span>Service
-                                                            Plus</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-19941"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19941">
-                                                    <a href="https://greeny.axiomthemes.com/newsletter-popups/"><span>Newsletter
-                                                            Popups</span></a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li id="mobile-menu-item-18851"
-                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18851">
-                                            <a href="#"><span>Shop</span></a>
-                                            <ul class="sub-menu">
-                                                <li id="mobile-menu-item-19288"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19288">
-                                                    <a href="https://greeny.axiomthemes.com/shop/"><span>Product
-                                                            List</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-19284"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19284">
-                                                    <a href="https://greeny.axiomthemes.com/product/leather-backpack/"><span>Product
-                                                            Single</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-19286"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19286">
-                                                    <a href="https://greeny.axiomthemes.com/cart/"><span>Cart</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-19287"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19287">
-                                                    <a
-                                                        href="https://greeny.axiomthemes.com/checkout/"><span>Checkout</span></a>
-                                                </li>
-                                                <li id="mobile-menu-item-19290"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19290">
-                                                    <a
-                                                        href="https://greeny.axiomthemes.com/wishlist-page/"><span>Wishlist</span></a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li id="mobile-menu-item-19946"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19946">
-                                            <a href="https://greeny.axiomthemes.com/blog/"><span>Blog</span></a>
-                                        </li>
-                                        <li id="mobile-menu-item-18853"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18853">
-                                            <a href="https://greeny.axiomthemes.com/contact/"><span>Contact</span></a>
-                                        </li>
-                                    </ul>
-                                </nav>
-                                <div class="socials_mobile"><a target="_blank" rel="nofollow"
-                                        href="https://www.facebook.com/AxiomThemes-505060569826537/"
-                                        class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
-                                            class="social_icon social_icon_facebook-1" style=""><span
-                                                class="screen-reader-text">facebook-1</span><span
-                                                class="icon-facebook-1"></span></span></a><a target="_blank"
-                                        rel="nofollow" href="https://twitter.com/ThemesAxiom"
-                                        class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
-                                            class="social_icon social_icon_twitter-new" style=""><span
-                                                class="screen-reader-text">twitter-new</span><span
-                                                class="icon-twitter-new"></span></span></a><a target="_blank"
-                                        rel="nofollow" href="https://dribbble.com/AxiomThemes"
-                                        class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
-                                            class="social_icon social_icon_dribble-new" style=""><span
-                                                class="screen-reader-text">dribble-new</span><span
-                                                class="icon-dribble-new"></span></span></a><a target="_blank"
-                                        rel="nofollow" href="https://www.instagram.com/axiom_themes/"
-                                        class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
-                                            class="social_icon social_icon_instagram" style=""><span
-                                                class="screen-reader-text">instagram</span><span
-                                                class="icon-instagram"></span></span></a></div>
-                            </div>
-                        </div>
-                        <div class="menu_mobile_widgets_area">
-                            <div
-                                class="widgets_additional_menu_mobile_fullscreen widgets_additional_menu_mobile_fullscreen_wrap widget_area">
-                                <div
-                                    class="widgets_additional_menu_mobile_fullscreen_inner widgets_additional_menu_mobile_fullscreen_inner widget_area_inner">
-                                    <aside class="widget_text widget widget_custom_html">
-                                        <div class="textwidget custom-html-widget">
-                                            <div class="extra_item">
-                                                <h6>Have a Project?</h6>
-                                                <a href="/cdn-cgi/l/email-protection#f59c9b939ab5829097869c8190db969a98"><span
-                                                        class="__cf_email__"
-                                                        data-cfemail="523b3c343d12253730213b26377c313d3f">[email&#160;protected]</span></a>
-                                            </div>
-
-                                            <div class="extra_item">
-                                                <h6>Want to Work With Us?</h6>
-                                                <a href="https://greeny.axiomthemes.com/contact/">Send Brief</a>
-                                            </div>
-
-                                            <div class="extra_item">
-                                                <h6>Want to Buy Vehicles?</h6>
-                                                <a href="https://greeny.axiomthemes.com/shop/">Go to Shop</a>
-                                            </div>
-                                        </div>
-                                    </aside>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
 
                 <div class="page_content_wrap">
@@ -4802,7 +4056,7 @@
                                                                             class="slider_wrap slider_engine_revo slider_alias_slider-1">
                                                                             <div class="wp-block-themepunch-revslider 0">
                                                                                 <!-- START Slider 1 REVOLUTION SLIDER 6.7.32 -->
-                                                                                <p class="rs-p-wp-fix"></p>
+                                                                                {{-- <p class="rs-p-wp-fix"></p> --}}
                                                                                 <rs-module-wrap
                                                                                     id="rev_slider_4_1_wrapper"
                                                                                     data-source="gallery"
@@ -4816,19 +4070,19 @@
                                                                                                 style="position: absolute;"
                                                                                                 data-key="rs-6"
                                                                                                 data-title="Slide"
-                                                                                                data-thumb="//greeny.axiomthemes.com/wp-content/uploads/revslider/slider-1/47_1-1-min-146x102.jpg"
+                                                                                                data-thumb="{{asset('images/logo2x.webp')}}"
                                                                                                 data-anim="adpr:false;ms:1000ms;"
                                                                                                 data-in="o:0;"
                                                                                                 data-out="a:false;">
                                                                                                 <img fetchpriority="high"
                                                                                                     decoding="async"
-                                                                                                    src="//greeny.axiomthemes.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png"
+                                                                                                    src="{{asset('images/47_1-1-min.jpg')}}"
                                                                                                     alt=""
                                                                                                     title="47_1-1-min.jpg"
                                                                                                     width="2560"
                                                                                                     height="1006"
                                                                                                     class="rev-slidebg tp-rs-img rs-lazyload"
-                                                                                                    data-lazyload="//greeny.axiomthemes.com/wp-content/uploads/revslider/slider-1/47_1-1-min.jpg"
+                                                                                                    data-lazyload="{{asset('images/47_1-1-min.jpg')}}"
                                                                                                     data-parallax="off"
                                                                                                     data-panzoom="d:10000;ss:100;se:110%;"
                                                                                                     data-no-retina>
@@ -4923,18 +4177,18 @@
                                                                                                 style="position: absolute;"
                                                                                                 data-key="rs-7"
                                                                                                 data-title="Slide"
-                                                                                                data-thumb="//greeny.axiomthemes.com/wp-content/uploads/revslider/slider-1/47_1-2-min-146x102.jpg"
+                                                                                                data-thumb="{{asset('images/47_1-2-min-146x102.jpg')}}"
                                                                                                 data-anim="adpr:false;ms:1000ms;"
                                                                                                 data-in="o:0;"
                                                                                                 data-out="a:false;">
                                                                                                 <img decoding="async"
-                                                                                                    src="//greeny.axiomthemes.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png"
+                                                                                                    src="{{asset('images/47_1-2-min.jpg')}}"
                                                                                                     alt=""
                                                                                                     title="47_1-2-min.jpg"
                                                                                                     width="2560"
                                                                                                     height="1006"
                                                                                                     class="rev-slidebg tp-rs-img rs-lazyload"
-                                                                                                    data-lazyload="//greeny.axiomthemes.com/wp-content/uploads/revslider/slider-1/47_1-2-min.jpg"
+                                                                                                    data-lazyload="{{asset('images/47_1-2-min.jpg')}}"
                                                                                                     data-parallax="off"
                                                                                                     data-panzoom="d:10000;ss:100;se:110%;"
                                                                                                     data-no-retina>
@@ -5031,18 +4285,18 @@
                                                                                                 style="position: absolute;"
                                                                                                 data-key="rs-8"
                                                                                                 data-title="Slide"
-                                                                                                data-thumb="//greeny.axiomthemes.com/wp-content/uploads/revslider/slider-1/47_1-3-min-146x102.jpg"
+                                                                                                data-thumb="{{asset('images/47_1-3-min-146x102.jpg')}}"
                                                                                                 data-anim="adpr:false;ms:1000ms;"
                                                                                                 data-in="o:0;"
                                                                                                 data-out="a:false;">
                                                                                                 <img decoding="async"
-                                                                                                    src="//greeny.axiomthemes.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png"
+                                                                                                    src="{{asset('images/47_1-3-min-146x102.jpg')}}"
                                                                                                     alt=""
                                                                                                     title="47_1-3-min.jpg"
                                                                                                     width="2560"
                                                                                                     height="1006"
                                                                                                     class="rev-slidebg tp-rs-img rs-lazyload"
-                                                                                                    data-lazyload="//greeny.axiomthemes.com/wp-content/uploads/revslider/slider-1/47_1-3-min.jpg"
+                                                                                                    data-lazyload="{{asset('images/47_1-3-min-146x102.jpg')}}"
                                                                                                     data-parallax="off"
                                                                                                     data-panzoom="d:10000;ss:100;se:110%;"
                                                                                                     data-no-retina>
@@ -5235,7 +4489,7 @@
                                                                             <div data-post-id="951"
                                                                                 class="sc_services_item sc_item_container post_container without_content with_subtitle with_image with_number post-951 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-advantages">
                                                                                 <div class="sc_services_item_content "
-                                                                                    style="background-image: url(https://greeny.axiomthemes.com/wp-content/uploads/2020/04/services-image4-840x1260.jpg);">
+                                                                                    style="background-image: url({{asset('images/services-image4-840x1260.jpg')}});">
                                                                                     <div
                                                                                         class="sc_services_item_content_inner">
                                                                                         <div
@@ -5248,17 +4502,17 @@
                                                                                             <h6
                                                                                                 class="sc_services_item_title">
                                                                                                 <a
-                                                                                                    href="https://greeny.axiomthemes.com/services/stylish-design/">Stylish
+                                                                                                    href="{{route('service.change')}}">Stylish
                                                                                                     Design</a>
                                                                                             </h6>
                                                                                             <div
                                                                                                 class="sc_services_item_subtitle">
-                                                                                                <a href="https://greeny.axiomthemes.com/services_group/advantages/"
+                                                                                                <a href="{{route('service.change')}}"
                                                                                                     title="View all posts in Advantages">Advantages</a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div><a class="sc_services_item_link"
-                                                                                        href="https://greeny.axiomthemes.com/services/stylish-design/"></a>
+                                                                                        href="{{route('service.change')}}"></a>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -5267,7 +4521,7 @@
                                                                             <div data-post-id="950"
                                                                                 class="sc_services_item sc_item_container post_container without_content with_subtitle with_image with_number post-950 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-advantages">
                                                                                 <div class="sc_services_item_content "
-                                                                                    style="background-image: url(https://greeny.axiomthemes.com/wp-content/uploads/2020/04/services-image2-840x1260.jpg);">
+                                                                                    style="background-image: url({{asset('images/services-image2-840x1260.jpg')}});">
                                                                                     <div
                                                                                         class="sc_services_item_content_inner">
                                                                                         <div
@@ -5280,17 +4534,17 @@
                                                                                             <h6
                                                                                                 class="sc_services_item_title">
                                                                                                 <a
-                                                                                                    href="https://greeny.axiomthemes.com/services/fast-charging/">Fast
+                                                                                                    href="{{route('service.serve')}}">Fast
                                                                                                     Charging</a>
                                                                                             </h6>
                                                                                             <div
                                                                                                 class="sc_services_item_subtitle">
-                                                                                                <a href="https://greeny.axiomthemes.com/services_group/advantages/"
+                                                                                                <a href="{{route('service.serve')}}"
                                                                                                     title="View all posts in Advantages">Advantages</a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div><a class="sc_services_item_link"
-                                                                                        href="https://greeny.axiomthemes.com/services/fast-charging/"></a>
+                                                                                        href={{route('service.serve')}}"></a>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -5299,7 +4553,7 @@
                                                                             <div data-post-id="949"
                                                                                 class="sc_services_item sc_item_container post_container without_content with_subtitle with_image with_number post-949 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-advantages">
                                                                                 <div class="sc_services_item_content "
-                                                                                    style="background-image: url(https://greeny.axiomthemes.com/wp-content/uploads/2020/04/services-image3-840x1260.jpg);">
+                                                                                    style="background-image: url({{asset('images/services-image3-840x1260.jpg')}});">
                                                                                     <div
                                                                                         class="sc_services_item_content_inner">
                                                                                         <div
@@ -5312,17 +4566,17 @@
                                                                                             <h6
                                                                                                 class="sc_services_item_title">
                                                                                                 <a
-                                                                                                    href="https://greeny.axiomthemes.com/services/affordable-price/">Affordable
+                                                                                                    href="{{route('service.price')}}">Affordable
                                                                                                     Price</a>
                                                                                             </h6>
                                                                                             <div
                                                                                                 class="sc_services_item_subtitle">
-                                                                                                <a href="https://greeny.axiomthemes.com/services_group/advantages/"
+                                                                                                <a href="{{route('service.price')}}"
                                                                                                     title="View all posts in Advantages">Advantages</a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div><a class="sc_services_item_link"
-                                                                                        href="https://greeny.axiomthemes.com/services/affordable-price/"></a>
+                                                                                        href="{{route('service.price')}}"></a>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -5331,7 +4585,7 @@
                                                                             <div data-post-id="948"
                                                                                 class="sc_services_item sc_item_container post_container without_content with_subtitle with_image with_number post-948 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-advantages">
                                                                                 <div class="sc_services_item_content "
-                                                                                    style="background-image: url(https://greeny.axiomthemes.com/wp-content/uploads/2020/04/services-image5-840x1260.jpg);">
+                                                                                    style="background-image: url({{asset('images/services-image5-840x1260.jpg')}});">
                                                                                     <div
                                                                                         class="sc_services_item_content_inner">
                                                                                         <div
@@ -5344,17 +4598,17 @@
                                                                                             <h6
                                                                                                 class="sc_services_item_title">
                                                                                                 <a
-                                                                                                    href="https://greeny.axiomthemes.com/services/nature-friendly/">Nature
+                                                                                                    href="{{route('service.nature')}}">Nature
                                                                                                     Friendly</a>
                                                                                             </h6>
                                                                                             <div
                                                                                                 class="sc_services_item_subtitle">
-                                                                                                <a href="https://greeny.axiomthemes.com/services_group/advantages/"
+                                                                                                <a href="{{route('service.nature')}}"
                                                                                                     title="View all posts in Advantages">Advantages</a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div><a class="sc_services_item_link"
-                                                                                        href="https://greeny.axiomthemes.com/services/nature-friendly/"></a>
+                                                                                        href="{{route('service.price')}}"></a>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -5461,7 +4715,7 @@
                                                             data-widget_type="trx_sc_button.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="sc_item_button sc_button_wrap"><a
-                                                                        href="https://greeny.axiomthemes.com/about-us/"
+                                                                        href="{{route('about')}}"
                                                                         class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left color_style_link2"><span
                                                                             class="sc_button_text"><span
                                                                                 class="sc_button_title">About
@@ -5651,22 +4905,11 @@
                                                                                                             </h1>
                                                                                                             <div
                                                                                                                 class="sc_item_descr sc_title_descr sc_align_left">
-                                                                                                                <p>Dicta
-                                                                                                                    sunt
-                                                                                                                    explicabo.
-                                                                                                                    Nemo
-                                                                                                                    enim
-                                                                                                                    ipsam
-                                                                                                                    voluptatem
-                                                                                                                    quia
-                                                                                                                    voluptas
-                                                                                                                    sit
-                                                                                                                    aspernatur
-                                                                                                                    aut odit
-                                                                                                                    aut
-                                                                                                                    fugit
-                                                                                                                    sed
-                                                                                                                    quia.
+                                                                                                                <p>
+                                                                                                                    Electric cars run on electricity stored in a battery instead of fuel.
+The battery powers an electric motor that turns the wheels.
+Regenerative braking recharges the battery while slowing down.
+They produce no exhaust emissions and need less maintenance.
                                                                                                                 </p>
                                                                                                             </div>
                                                                                                         </div>
@@ -5694,7 +4937,7 @@
                                                                                                         class="elementor-widget-container">
                                                                                                         <div
                                                                                                             class="sc_item_button sc_button_wrap sc_align_left">
-                                                                                                            <a href="https://greeny.axiomthemes.com/charging-solutions/"
+                                                                                                            <a href="{{route('home')}}"
                                                                                                                 class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left color_style_link2"><span
                                                                                                                     class="sc_button_text"><span
                                                                                                                         class="sc_button_title">Learn
@@ -5813,22 +5056,11 @@
                                                                                                             </h1>
                                                                                                             <div
                                                                                                                 class="sc_item_descr sc_title_descr sc_align_left">
-                                                                                                                <p>Dicta
-                                                                                                                    sunt
-                                                                                                                    explicabo.
-                                                                                                                    Nemo
-                                                                                                                    enim
-                                                                                                                    ipsam
-                                                                                                                    voluptatem
-                                                                                                                    quia
-                                                                                                                    voluptas
-                                                                                                                    sit
-                                                                                                                    aspernatur
-                                                                                                                    aut odit
-                                                                                                                    aut
-                                                                                                                    fugit
-                                                                                                                    sed
-                                                                                                                    quia.
+                                                                                                                <p>
+                                                                                                                    Saving money means setting aside part of your income for future use.
+It helps you handle emergencies without stress.
+Regular saving builds financial discipline and independence.
+Small, consistent savings grow into big opportunities over time.
                                                                                                                 </p>
                                                                                                             </div>
                                                                                                         </div>
@@ -5856,7 +5088,7 @@
                                                                                                         class="elementor-widget-container">
                                                                                                         <div
                                                                                                             class="sc_item_button sc_button_wrap sc_align_left">
-                                                                                                            <a href="https://greeny.axiomthemes.com/charging-solutions/"
+                                                                                                            <a href="{{route('home')}}"
                                                                                                                 class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left color_style_link2"><span
                                                                                                                     class="sc_button_text"><span
                                                                                                                         class="sc_button_title">Learn
@@ -5975,22 +5207,10 @@
                                                                                                             </h1>
                                                                                                             <div
                                                                                                                 class="sc_item_descr sc_title_descr sc_align_left">
-                                                                                                                <p>Dicta
-                                                                                                                    sunt
-                                                                                                                    explicabo.
-                                                                                                                    Nemo
-                                                                                                                    enim
-                                                                                                                    ipsam
-                                                                                                                    voluptatem
-                                                                                                                    quia
-                                                                                                                    voluptas
-                                                                                                                    sit
-                                                                                                                    aspernatur
-                                                                                                                    aut odit
-                                                                                                                    aut
-                                                                                                                    fugit
-                                                                                                                    sed
-                                                                                                                    quia.
+                                                                                                                <p>
+                                                                                                                    Lower emissions mean releasing fewer harmful gases into the air.
+This helps reduce air pollution and climate change.
+It also leads to cleaner, healthier environments for everyone.
                                                                                                                 </p>
                                                                                                             </div>
                                                                                                         </div>
@@ -6018,7 +5238,7 @@
                                                                                                         class="elementor-widget-container">
                                                                                                         <div
                                                                                                             class="sc_item_button sc_button_wrap sc_align_left">
-                                                                                                            <a href="https://greeny.axiomthemes.com/charging-solutions/"
+                                                                                                            <a href="{{route('home')}}"
                                                                                                                 class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left color_style_link2"><span
                                                                                                                     class="sc_button_text"><span
                                                                                                                         class="sc_button_title">Learn
@@ -6137,22 +5357,10 @@
                                                                                                             </h1>
                                                                                                             <div
                                                                                                                 class="sc_item_descr sc_title_descr sc_align_left">
-                                                                                                                <p>Dicta
-                                                                                                                    sunt
-                                                                                                                    explicabo.
-                                                                                                                    Nemo
-                                                                                                                    enim
-                                                                                                                    ipsam
-                                                                                                                    voluptatem
-                                                                                                                    quia
-                                                                                                                    voluptas
-                                                                                                                    sit
-                                                                                                                    aspernatur
-                                                                                                                    aut odit
-                                                                                                                    aut
-                                                                                                                    fugit
-                                                                                                                    sed
-                                                                                                                    quia.
+                                                                                                                <p>
+                                                                                                                    Less maintenance means fewer parts to repair or replace.
+It reduces service costs and saves time.
+This makes ownership easier and more affordable over time.
                                                                                                                 </p>
                                                                                                             </div>
                                                                                                         </div>
@@ -6180,7 +5388,7 @@
                                                                                                         class="elementor-widget-container">
                                                                                                         <div
                                                                                                             class="sc_item_button sc_button_wrap sc_align_left">
-                                                                                                            <a href="https://greeny.axiomthemes.com/charging-solutions/"
+                                                                                                            <a href="{{route('home')}}"
                                                                                                                 class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left color_style_link2"><span
                                                                                                                     class="sc_button_text"><span
                                                                                                                         class="sc_button_title">Learn
@@ -6299,22 +5507,9 @@
                                                                                                             </h1>
                                                                                                             <div
                                                                                                                 class="sc_item_descr sc_title_descr sc_align_left">
-                                                                                                                <p>Dicta
-                                                                                                                    sunt
-                                                                                                                    explicabo.
-                                                                                                                    Nemo
-                                                                                                                    enim
-                                                                                                                    ipsam
-                                                                                                                    voluptatem
-                                                                                                                    quia
-                                                                                                                    voluptas
-                                                                                                                    sit
-                                                                                                                    aspernatur
-                                                                                                                    aut odit
-                                                                                                                    aut
-                                                                                                                    fugit
-                                                                                                                    sed
-                                                                                                                    quia.
+                                                                                                                <p>Better performance means faster acceleration and smoother driving.
+Power is delivered instantly without gear delays.
+This results in a more responsive and enjoyable ride.
                                                                                                                 </p>
                                                                                                             </div>
                                                                                                         </div>
@@ -6342,7 +5537,7 @@
                                                                                                         class="elementor-widget-container">
                                                                                                         <div
                                                                                                             class="sc_item_button sc_button_wrap sc_align_left">
-                                                                                                            <a href="https://greeny.axiomthemes.com/charging-solutions/"
+                                                                                                            <a href="{{route('home')}}"
                                                                                                                 class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left color_style_link2"><span
                                                                                                                     class="sc_button_text"><span
                                                                                                                         class="sc_button_title">Learn
@@ -6478,32 +5673,26 @@
                                                                                         <div
                                                                                             class="trx_addons_column-1_2">
                                                                                             <div
-                                                                                                class="sc_icons_item sc_icons_item_linked">
-                                                                                                <div
-                                                                                                    class="sc_icons_icon sc_icon_type_ icon-gr_eco-fuel_1">
-                                                                                                    <span
-                                                                                                        class="sc_icon_type_ icon-gr_eco-fuel_1"></span>
-                                                                                                </div>
+                                                                                                class="sc_icons_item ">
+                                                                                                <i class="fa-solid fa-bolt"></i>
                                                                                                 <div
                                                                                                     class="sc_icons_item_details">
                                                                                                     <h4
                                                                                                         class="sc_icons_item_title">
                                                                                                         <a
-                                                                                                            href="https://greeny.axiomthemes.com/about-us/">
+                                                                                                            href="{{route('about')}}">
                                                                                                             No Gas Required
                                                                                                         </a>
                                                                                                     </h4>
                                                                                                     <div
                                                                                                         class="sc_icons_item_description">
-                                                                                                        <span>Natus error
-                                                                                                            sit voluptatem
-                                                                                                            accusantium
-                                                                                                            doloremque
-                                                                                                            laudantium,
-                                                                                                            totam rem
-                                                                                                            aperiam.</span>
+                                                                                                        <span>
+                                                                                                            No gas is needed to power electric vehicles.
+They run entirely on electricity from rechargeable batteries.
+This removes fuel costs and reduces emissions.
+                                                                                                        </span>
                                                                                                     </div><a
-                                                                                                        href="https://greeny.axiomthemes.com/about-us/"
+                                                                                                        href="{{route('about')}}"
                                                                                                         class="sc_icons_item_link">
                                                                                                     </a>
                                                                                                 </div>
@@ -6514,30 +5703,26 @@
                                                                                             <div
                                                                                                 class="sc_icons_item sc_icons_item_linked">
                                                                                                 <div
-                                                                                                    class="sc_icons_icon sc_icon_type_ icon-gr_green-earth">
-                                                                                                    <span
-                                                                                                        class="sc_icon_type_ icon-gr_green-earth"></span>
+                                                                                                    class="sc_icons_icon">
+                                                                                                   <i class="fa-solid fa-plug"></i>
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="sc_icons_item_details">
                                                                                                     <h4
                                                                                                         class="sc_icons_item_title">
                                                                                                         <a
-                                                                                                            href="https://greeny.axiomthemes.com/about-us/">
+                                                                                                            href="{{route('about')}}">
                                                                                                             Zero Emissions
                                                                                                         </a>
                                                                                                     </h4>
                                                                                                     <div
                                                                                                         class="sc_icons_item_description">
-                                                                                                        <span>Natus error
-                                                                                                            sit voluptatem
-                                                                                                            accusantium
-                                                                                                            doloremque
-                                                                                                            laudantium,
-                                                                                                            totam rem
-                                                                                                            aperiam.</span>
+                                                                                                        <span>
+                                                                                                            Zero emissions mean no harmful exhaust gases are released.
+This helps keep the air cleaner and healthier.
+                                                                                                        </span>
                                                                                                     </div><a
-                                                                                                        href="https://greeny.axiomthemes.com/about-us/"
+                                                                                                        href="{{route('about')}}"
                                                                                                         class="sc_icons_item_link">
                                                                                                     </a>
                                                                                                 </div>
@@ -6548,30 +5733,27 @@
                                                                                             <div
                                                                                                 class="sc_icons_item sc_icons_item_linked">
                                                                                                 <div
-                                                                                                    class="sc_icons_icon sc_icon_type_ icon-gr_electric-car_1">
-                                                                                                    <span
-                                                                                                        class="sc_icon_type_ icon-gr_electric-car_1"></span>
+                                                                                                    class="sc_icons_icon">
+                                                                                                   <i class="fa-solid fa-charging-station"></i>
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="sc_icons_item_details">
                                                                                                     <h4
                                                                                                         class="sc_icons_item_title">
                                                                                                         <a
-                                                                                                            href="https://greeny.axiomthemes.com/about-us/">
+                                                                                                            href="{{route('about')}}">
                                                                                                             Easy to Recharge
                                                                                                         </a>
                                                                                                     </h4>
                                                                                                     <div
                                                                                                         class="sc_icons_item_description">
-                                                                                                        <span>Natus error
-                                                                                                            sit voluptatem
-                                                                                                            accusantium
-                                                                                                            doloremque
-                                                                                                            laudantium,
-                                                                                                            totam rem
-                                                                                                            aperiam.</span>
+                                                                                                        <span>
+                                                                                                            Electric vehicles are easy to recharge at home or public stations.
+You can charge overnight or during the day.
+This makes refueling simple and convenient.
+                                                                                                        </span>
                                                                                                     </div><a
-                                                                                                        href="https://greeny.axiomthemes.com/about-us/"
+                                                                                                        href="{{route('about')}}"
                                                                                                         class="sc_icons_item_link">
                                                                                                     </a>
                                                                                                 </div>
@@ -6582,30 +5764,27 @@
                                                                                             <div
                                                                                                 class="sc_icons_item sc_icons_item_linked">
                                                                                                 <div
-                                                                                                    class="sc_icons_icon sc_icon_type_ icon-gr_green-energy-1">
-                                                                                                    <span
-                                                                                                        class="sc_icon_type_ icon-gr_green-energy-1"></span>
+                                                                                                    class="sc_icons_icon ">
+                                                                                                    <i class="fa-solid fa-leaf"></i>
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="sc_icons_item_details">
                                                                                                     <h4
                                                                                                         class="sc_icons_item_title">
                                                                                                         <a
-                                                                                                            href="https://greeny.axiomthemes.com/about-us/">
+                                                                                                            href="{{route('about')}}">
                                                                                                             Cost-Effective
                                                                                                         </a>
                                                                                                     </h4>
                                                                                                     <div
                                                                                                         class="sc_icons_item_description">
-                                                                                                        <span>Natus error
-                                                                                                            sit voluptatem
-                                                                                                            accusantium
-                                                                                                            doloremque
-                                                                                                            laudantium,
-                                                                                                            totam rem
-                                                                                                            aperiam.</span>
+                                                                                                        <span>
+                                                                                                            Electric vehicles are cost-effective because they use electricity instead of fuel.
+They have fewer moving parts, so maintenance is cheaper.
+Over time, owners save money on energy and repairs.
+                                                                                                        </span>
                                                                                                     </div><a
-                                                                                                        href="https://greeny.axiomthemes.com/about-us/"
+                                                                                                        href="{{route('about')}}"
                                                                                                         class="sc_icons_item_link">
                                                                                                     </a>
                                                                                                 </div>
@@ -6753,15 +5932,16 @@
                                                                 <div class="sc_title color_style_link2 sc_title_default">
                                                                     <div
                                                                         class="sc_item_descr sc_title_descr sc_align_left">
-                                                                        <p>Adipiscing elit, sed do eiusmod tempor incididunt
-                                                                            ut labore et dolore magna aliqua. Ut enim ad
-                                                                            minim veniam, quis nostrud exercitation ullamco.
-                                                                            Adipiscing elit, sed do eiusmod tempor
-                                                                            incididunt ut labore.</p>
+                                                                        <p>
+                                                                            Cars designed for those who value elegance and performance.
+Every detail combines comfort and modern technology.
+They deliver a smooth, enjoyable driving experience.
+Experience the thrill of driving in true style.
+                                                                        </p>
                                                                     </div>
                                                                     <div
                                                                         class="sc_item_button sc_button_wrap sc_align_left sc_item_button sc_item_button_default sc_item_button_size_normal sc_title_button">
-                                                                        <a href="https://greeny.axiomthemes.com/shop/"
+                                                                        <a href="{{route('products')}}"
                                                                             class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left"><span
                                                                                 class="sc_button_text"><span
                                                                                     class="sc_button_title">View
@@ -8381,330 +7561,16 @@
                         </div>
                     </div>
                 </div>
-                <span id="footer_skip_link_anchor" class="greeny_skip_link_anchor"></span>
-                <footer
-                    class="footer_wrap footer_custom footer_custom_19240 footer_custom_footer-style-1-greeny												">
-                    <div data-elementor-type="cpt_layouts" data-elementor-id="19240"
-                        class="elementor elementor-19240">
-                        <section
-                            class="elementor-section elementor-top-section elementor-element elementor-element-4a242fd elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
-                            data-id="4a242fd" data-element_type="section"
-                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                            <div class="elementor-container elementor-column-gap-extended">
-                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b0a3cf2 sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="b0a3cf2" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-5995454 sc_height_large sc_fly_static elementor-widget elementor-widget-spacer"
-                                            data-id="5995454" data-element_type="widget"
-                                            data-widget_type="spacer.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-spacer">
-                                                    <div class="elementor-spacer-inner"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-aa8fcc8 sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-spacer"
-                                            data-id="aa8fcc8" data-element_type="widget"
-                                            data-widget_type="spacer.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-spacer">
-                                                    <div class="elementor-spacer-inner"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-top-section elementor-element elementor-element-3e3fe74 sc_layouts_row sc_layouts_row_type_compact scheme_dark elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
-                            data-id="3e3fe74" data-element_type="section"
-                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                            <div class="elementor-container elementor-column-gap-extended">
-                                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-eb132f3 sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="eb132f3" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-ba7bf8d sc_fly_static elementor-widget elementor-widget-trx_sc_title"
-                                            data-id="ba7bf8d" data-element_type="widget"
-                                            data-widget_type="trx_sc_title.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_title sc_title_default">
-                                                    <h2 class="sc_item_title sc_title_title sc_item_title_style_default">
-                                                        <span class="sc_item_title_text">We Develop & Create <br>a Better
-                                                            Future</span>
-                                                    </h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3eea76d sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="3eea76d" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-c6b8c08 sc_fly_static elementor-widget elementor-widget-trx_sc_title"
-                                            data-id="c6b8c08" data-element_type="widget"
-                                            data-widget_type="trx_sc_title.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_title sc_title_default">
-                                                    <h6
-                                                        class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
-                                                        <span class="sc_item_title_text">Address</span>
-                                                    </h6>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-16bcc7d sc_fly_static elementor-widget elementor-widget-spacer"
-                                            data-id="16bcc7d" data-element_type="widget"
-                                            data-widget_type="spacer.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-spacer">
-                                                    <div class="elementor-spacer-inner"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-6e73e17 sc_fly_static elementor-widget elementor-widget-text-editor"
-                                            data-id="6e73e17" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <p>Germany —<br />785 15h Street, Office 478<br />Berlin, De 81566</p>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-7b9e520 sc_fly_static elementor-widget elementor-widget-spacer"
-                                            data-id="7b9e520" data-element_type="widget"
-                                            data-widget_type="spacer.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-spacer">
-                                                    <div class="elementor-spacer-inner"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-ceda11b sc_fly_static elementor-widget elementor-widget-trx_sc_socials"
-                                            data-id="ceda11b" data-element_type="widget"
-                                            data-widget_type="trx_sc_socials.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_socials sc_socials_default sc_align_none">
-                                                    <div class="socials_wrap sc_item_content"><a target="_blank"
-                                                            rel="nofollow"
-                                                            href="https://www.facebook.com/AxiomThemes-505060569826537/"
-                                                            class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
-                                                                class="social_icon social_icon_facebook-1"
-                                                                style=""><span
-                                                                    class="screen-reader-text">facebook-1</span><span
-                                                                    class="icon-facebook-1"></span></span></a><a
-                                                            target="_blank" rel="nofollow"
-                                                            href="https://twitter.com/ThemesAxiom"
-                                                            class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
-                                                                class="social_icon social_icon_twitter-new"
-                                                                style=""><span
-                                                                    class="screen-reader-text">twitter-new</span><span
-                                                                    class="icon-twitter-new"></span></span></a><a
-                                                            target="_blank" rel="nofollow"
-                                                            href="https://dribbble.com/AxiomThemes"
-                                                            class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
-                                                                class="social_icon social_icon_dribble-new"
-                                                                style=""><span
-                                                                    class="screen-reader-text">dribble-new</span><span
-                                                                    class="icon-dribble-new"></span></span></a><a
-                                                            target="_blank" rel="nofollow"
-                                                            href="https://www.instagram.com/axiom_themes/"
-                                                            class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
-                                                                class="social_icon social_icon_instagram"
-                                                                style=""><span
-                                                                    class="screen-reader-text">instagram</span><span
-                                                                    class="icon-instagram"></span></span></a></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6faf73b sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="6faf73b" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-ca70b6d sc_fly_static elementor-widget elementor-widget-trx_sc_title"
-                                            data-id="ca70b6d" data-element_type="widget"
-                                            data-widget_type="trx_sc_title.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="sc_title sc_title_default">
-                                                    <h6
-                                                        class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
-                                                        <span class="sc_item_title_text">Say Hello</span>
-                                                    </h6>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-b68f402 sc_fly_static elementor-widget elementor-widget-spacer"
-                                            data-id="b68f402" data-element_type="widget"
-                                            data-widget_type="spacer.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-spacer">
-                                                    <div class="elementor-spacer-inner"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-84325bf sc_fly_static elementor-widget elementor-widget-text-editor"
-                                            data-id="84325bf" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <p><a class="underline_anim"
-                                                        href="/cdn-cgi/l/email-protection#533a3d353c13363e323a3f7d303c3e"><span
-                                                            class="__cf_email__"
-                                                            data-cfemail="1b72757d745b7e767a727735787476">[email&#160;protected]</span></a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-aab8a73 sc_fly_static elementor-widget elementor-widget-spacer"
-                                            data-id="aab8a73" data-element_type="widget"
-                                            data-widget_type="spacer.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-spacer">
-                                                    <div class="elementor-spacer-inner"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-2638e21 sc_fly_static elementor-widget elementor-widget-text-editor"
-                                            data-id="2638e21" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <span class="trx_addons_alter_text"><a href="tel:+18408412569">+1 840
-                                                        841 25 69</a></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-top-section elementor-element elementor-element-dbfdd12 sc_layouts_row sc_layouts_row_type_compact scheme_dark elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
-                            data-id="dbfdd12" data-element_type="section"
-                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                            <div class="elementor-container elementor-column-gap-extended">
-                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44f8274 sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="44f8274" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-4031e5b sc_layouts_hide_on_notebook sc_layouts_hide_on_tablet sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-spacer"
-                                            data-id="4031e5b" data-element_type="widget"
-                                            data-widget_type="spacer.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-spacer">
-                                                    <div class="elementor-spacer-inner"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-8e7bc71 sc_height_medium sc_fly_static elementor-widget elementor-widget-spacer"
-                                            data-id="8e7bc71" data-element_type="widget"
-                                            data-widget_type="spacer.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-spacer">
-                                                    <div class="elementor-spacer-inner"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-36808df elementor-widget-divider--view-line sc_fly_static elementor-widget elementor-widget-divider"
-                                            data-id="36808df" data-element_type="widget"
-                                            data-widget_type="divider.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-divider">
-                                                    <span class="elementor-divider-separator">
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-top-section elementor-element elementor-element-73f3115 sc_layouts_row sc_layouts_row_type_narrow scheme_dark elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
-                            data-id="73f3115" data-element_type="section"
-                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                            <div class="elementor-container elementor-column-gap-extended">
-                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b282872 sc_layouts_column_align_left sc_layouts_column sc-mobile_layouts_column_align_center sc_layouts_column sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="b282872" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-dcfb343 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_menu"
-                                            data-id="dcfb343" data-element_type="widget"
-                                            data-widget_type="trx_sc_layouts_menu.default">
-                                            <div class="elementor-widget-container">
-                                                <nav class="sc_layouts_menu sc_layouts_menu_default sc_layouts_menu_dir_horizontal menu_hover_fade"
-                                                    data-animation-in="fadeIn" data-animation-out="fadeOut">
-                                                    <ul id="sc_layouts_menu_1372566449" class="sc_layouts_menu_nav">
-                                                        <li id="menu-item-19250"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18822 current_page_item menu-item-19250">
-                                                            <a href="https://greeny.axiomthemes.com/"
-                                                                aria-current="page"><span>Home</span></a>
-                                                        </li>
-                                                        <li id="menu-item-19258"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19258">
-                                                            <a href="https://greeny.axiomthemes.com/about-us/"><span>About
-                                                                    Us</span></a>
-                                                        </li>
-                                                        <li id="menu-item-19255"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19255">
-                                                            <a
-                                                                href="https://greeny.axiomthemes.com/shop/"><span>Shop</span></a>
-                                                        </li>
-                                                        <li id="menu-item-19948"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19948">
-                                                            <a
-                                                                href="https://greeny.axiomthemes.com/blog/"><span>Blog</span></a>
-                                                        </li>
-                                                        <li id="menu-item-19257"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19257">
-                                                            <a
-                                                                href="https://greeny.axiomthemes.com/contact/"><span>Contact</span></a>
-                                                        </li>
-                                                    </ul>
-                                                </nav>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-810521d sc_layouts_column_align_right sc_layouts_column sc-mobile_layouts_column_align_center sc_layouts_column sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                    data-id="810521d" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="sc_layouts_item elementor-element elementor-element-026f36b sc_fly_static elementor-widget elementor-widget-text-editor"
-                                            data-id="026f36b" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <a href="https://themeforest.net/user/axiomthemes/portfolio"
-                                                    target="_blank" rel="noopener">AxiomThemes</a> © 2026. All Rights
-                                                Reserved.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </footer><!-- /.footer_wrap -->
-
-
             </div>
-
-
         </div>
 
-
-
-        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-        <script>
-            window.RS_MODULES = window.RS_MODULES || {};
-            window.RS_MODULES.modules = window.RS_MODULES.modules || {};
-            window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
-            window.RS_MODULES.defered = false;
-            window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
-            window.RS_MODULES.type = 'compiled';
-        </script>
         <div id="go-video6" class="sc_layouts sc_layouts_popup" data-delay="0">
             <p><iframe title="The New EQS: World Premiere | Trailer" width="1290" height="726"
                     data-src="https://www.youtube.com/embed/KitQQHm0Eoc?feature=oembed&autoplay=1" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe></p>
-        </div><a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up scroll_to_top_style_default"
-            title="Scroll to top"></a>
-        <script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/greeny\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
-</script>
+        </div>
+
         <div class="adp-popup adp-popup-type-content adp-popup-location-center adp-preview-image-left adp-preview-image-no"
             data-limit-display="1" data-limit-lifetime="1" data-open-trigger="delay" data-open-delay-number="25"
             data-open-scroll-position="10" data-open-scroll-type="%" data-open-manual-selector=""
@@ -8839,8 +7705,20 @@
         </div>
 
         <div class="adp-popup-overlay"></div>
+@endsection
 
+@section('footer_scripts')
+ <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script>
+            window.RS_MODULES = window.RS_MODULES || {};
+            window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+            window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+            window.RS_MODULES.defered = false;
+            window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+            window.RS_MODULES.type = 'compiled';
+        </script>
+
+    <script>
             (function() {
                 function maybePrefixUrlField() {
                     const value = this.value.trim()
@@ -9724,10 +8602,4 @@
                 window.RS_MODULES.checkMinimal();
             };
         </script>
-        <script>
-            TRX_DEMO_STORAGE['tabs_layout'] =
-                "		<div class=\"trx_demo_panels trx_demo_tabs_position_rc trx_demo_tabs_style_icons\" style=\"width:320px;\">  			<div class=\"trx_demo_tabs\"> 				<a class=\"hint_left hint_big hint_slide\" href=\"https://1.envato.market/AoMk5a\" 						 target=\"_blank\"						aria-label=\"Buy theme\" 						data-type=\"link\" 						style=\"color:#ffffff;background-color:#a8c62e;\" 					><i class=\"trx_demo_icon-shopping-cart\"></i></a><a class=\"hint_left hint_big hint_slide\" href=\"#panel_related-themes\" 												aria-label=\"Our Bestsellers\" 						data-type=\"products\" 						style=\"color:#141541;background-color:#a8c62e;\" 					><i class=\"trx_demo_icon-gallery\"></i></a><a class=\"hint_left hint_big hint_slide\" href=\"https://greeny.axiomthemes.com?notabs=1\" 												aria-label=\"Hide panel\" 						data-type=\"link\" 						style=\"color:#141541;background-color:#a8c62e;\" 					><i class=\"trx_demo_icon-browser\"></i></a>			</div>  			<div class=\"trx_demo_panels_wrap\"> 				<div id=\"panel_related-themes\" 							class=\"trx_demo_panel 									trx_demo_panel_products									trx_demo_panel_thumbs_animation_off									trx_demo_panel_layout_1col									trx_demo_panel_style_plain\" 							style=\"\" 					><div class=\"trx_demo_panel_header\"><h5 class=\"trx_demo_panel_title\" style=\"\">Our Bestsellers</h5></div><div class=\"trx_demo_panel_content\"><div class=\"trx_demo_panel_list\"><div class=\"trx_demo_panel_list_item trx_demo_featured\" data-filter-value=\"bestsellers,business\" data-search-value=\"elementra\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2025/08/59-elementra.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=elementra\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=elementra\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\"><del>&#036;69</del>&nbsp;&#036;59</span>Elementra<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Bestsellers</span><span class=\"trx_demo_panel_list_item_term\">Business</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item trx_demo_featured\" data-filter-value=\"bestsellers,business,news-editorial\" data-search-value=\"qwery\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Qwery-Preview.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=qwery\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=qwery\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\"><del>&#036;75</del>&nbsp;&#036;59</span>Qwery<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Bestsellers</span><span class=\"trx_demo_panel_list_item_term\">Business</span><span class=\"trx_demo_panel_list_item_term\">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item trx_demo_featured\" data-filter-value=\"bestsellers,technology\" data-search-value=\"ann\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Ann-Preview.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=ann\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=ann\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\">&#036;79</span>ANN<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Bestsellers</span><span class=\"trx_demo_panel_list_item_term\">Technology</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item trx_demo_featured\" data-filter-value=\"bestsellers,buddypress,wordpress-themes\" data-search-value=\"anesta\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Anesta-Preview.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=anesta\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=anesta\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\"><del>&#036;79</del>&nbsp;&#036;69</span>Anesta<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Bestsellers</span><span class=\"trx_demo_panel_list_item_term\">BuddyPress</span><span class=\"trx_demo_panel_list_item_term\">WordPress Themes</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item trx_demo_featured\" data-filter-value=\"bestsellers,blog-magazine,news-editorial\" data-search-value=\"kicker\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Kicker-Preview.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=kicker\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=kicker\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\"><del>&#036;75</del>&nbsp;&#036;59</span>Kicker<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Bestsellers</span><span class=\"trx_demo_panel_list_item_term\">Blog / Magazine</span><span class=\"trx_demo_panel_list_item_term\">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item trx_demo_featured\" data-filter-value=\"bestsellers,health-beauty,news-editorial\" data-search-value=\"jacqueline\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Jacqueline-Preview.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=jacqueline\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=jacqueline\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\">&#036;79</span>Jacqueline<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Bestsellers</span><span class=\"trx_demo_panel_list_item_term\">Health &amp; Beauty</span><span class=\"trx_demo_panel_list_item_term\">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item trx_demo_featured\" data-filter-value=\"bestsellers,entertainment,news-editorial\" data-search-value=\"fc united\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/FC-United-Preview.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=fc-united\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=fc-united\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\">&#036;79</span>FC United<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Bestsellers</span><span class=\"trx_demo_panel_list_item_term\">Entertainment</span><span class=\"trx_demo_panel_list_item_term\">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item trx_demo_featured\" data-filter-value=\"portfolio\" data-search-value=\"helion\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2020/01/Helion-home-min.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=helion\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=helion\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\">&#036;69</span>Helion<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Portfolio</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item trx_demo_featured\" data-filter-value=\"news-editorial\" data-search-value=\"blabber\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2020/01/Blabber_home-min.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=blabber\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=blabber\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\">&#036;69</span>Blabber<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item trx_demo_featured\" data-filter-value=\"directory-listings\" data-search-value=\"alliance\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2024/02/Screenshot_1.png);\"> 															<a href=\"http://demo.themerex.net/?theme=alliance\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=alliance\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\">&#036;69</span>Alliance<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Directory &amp; Listings</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item\" data-filter-value=\"bestsellers,business,corporate\" data-search-value=\"business\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2025/12/Business-Admin.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=business\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=business\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\"><del>&#036;69</del>&nbsp;&#036;19</span>Business<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Bestsellers</span><span class=\"trx_demo_panel_list_item_term\">Business</span><span class=\"trx_demo_panel_list_item_term\">Corporate</span></span></a> 												</h6> 																							</div> 										</div><div class=\"trx_demo_panel_list_item\" data-filter-value=\"bestsellers,business,corporate\" data-search-value=\"flexify\"> 											<div class=\"trx_demo_panel_list_item_image_wrap\"> 																									<div class=\"trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9\" 														style=\"background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;\" 														data-style=\"background-image: url(//themerex.net/wp-content/uploads/edd/2025/07/Flexify-Primary-Preview-10.51.47.jpg);\"> 															<a href=\"http://demo.themerex.net/?theme=flexify\" target=\"_blank\"></a> 													</div> 													<h6 class=\"trx_demo_panel_list_item_title\"> 													<a href=\"http://demo.themerex.net/?theme=flexify\" target=\"_blank\"><span class=\"trx_demo_panel_list_item_price\"><del>&#036;69</del>&nbsp;&#036;19</span>Flexify<span class=\"trx_demo_panel_list_item_terms\"><span class=\"trx_demo_panel_list_item_term\">Bestsellers</span><span class=\"trx_demo_panel_list_item_term\">Business</span><span class=\"trx_demo_panel_list_item_term\">Corporate</span></span></a> 												</h6> 																							</div> 										</div></div></div><div class=\"trx_demo_panel_footer\"><a class=\"trx_demo_panel_button sc_button theme_button trx_demo_inline_1523971218 trx_demo_inline_1775695438\" href=\"https://themeforest.net/item/elementra-100-elementor-wordpress-theme/57242915\" target=\"_blank\">Sale</a></div></div></div> 			<span class=\"trx_demo_button_close\"><span class=\"trx_demo_button_close_icon\"></span></span>  		</div>  		<div class=\"trx_demo_panels_mask\"></div> 		";
-        </script>
-        <script src="https://code.tidio.co/ctybgkiqd4jhsgdvzlgahqx3pjybdwlg.js" async></script>
-    </body>
 @endsection
