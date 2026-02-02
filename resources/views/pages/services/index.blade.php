@@ -3,13 +3,12 @@
 @section('title', 'Home')
 
 @section('head')
-
-   <head>
+ <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="format-detection" content="telephone=no" />
     <link rel="profile" href="//gmpg.org/xfn/11" />
-    <title>Car Model A &#8211; Greeny</title>
+    <title>Charging Stations &#8211; Greeny</title>
     <style>
       body {
         --booked_button_color: #121c45;
@@ -35,27 +34,19 @@
       title="Greeny &raquo; Comments Feed"
       href="https://greeny.axiomthemes.com/comments/feed/"
     />
-    <link
-      rel="alternate"
-      type="application/rss+xml"
-      title="Greeny &raquo; Car Model A Comments Feed"
-      href="https://greeny.axiomthemes.com/product/car-model-a/feed/"
-    />
     <meta property="og:type" content="article" />
     <meta
       property="og:url"
-      content="https://greeny.axiomthemes.com/product/car-model-a/"
+      content="https://greeny.axiomthemes.com/services/charging-stations/"
     />
-    <meta property="og:title" content="Car Model A" />
+    <meta property="og:title" content="Charging Stations" />
     <meta
       property="og:description"
-      content="Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum nonum eirmod dolor.
-
-Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea"
+      content="Consectetur adipiscing elit, sed do eiusmod tempo adipiscing elit, sed do"
     />
     <meta
       property="og:image"
-      content="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3.jpg"
+      content="https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1.jpg"
     />
     <script type="text/javascript">
       /* <![CDATA[ */
@@ -876,6 +867,14 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
       type="text/css"
       media="all"
     />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
+      id="contact-form-7-css"
+      href="https://greeny.axiomthemes.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6"
+      type="text/css"
+      media="all"
+    />
 
     <style id="booked-css-inline-css" type="text/css">
       #ui-datepicker-div.booked_custom_date_picker
@@ -1030,22 +1029,6 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     <link
       property="stylesheet"
       rel="stylesheet"
-      id="photoswipe-css"
-      href="https://greeny.axiomthemes.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=9.3.5"
-      type="text/css"
-      media="all"
-    />
-    <link
-      property="stylesheet"
-      rel="stylesheet"
-      id="photoswipe-default-skin-css"
-      href="https://greeny.axiomthemes.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=9.3.5"
-      type="text/css"
-      media="all"
-    />
-    <link
-      property="stylesheet"
-      rel="stylesheet"
       id="woocommerce-layout-css"
       href="https://greeny.axiomthemes.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.3.5"
       type="text/css"
@@ -1129,182 +1112,178 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     <style id="elementor-frontend-inline-css" type="text/css">
       .elementor-kit-15{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-61c01e98:#4054B2;--e-global-color-69bf31ed:#23A455;--e-global-color-7a1ccbe5:#000;--e-global-color-13ed1179:#FFF;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1290px;}.e-con{--container-max-width:1290px;}.elementor-widget:not(:last-child){margin-block-end:0px;}.elementor-element{--widgets-spacing:0px 0px;--widgets-spacing-row:0px;--widgets-spacing-column:0px;}{}.sc_layouts_title_caption{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}
     </style>
-    <style id="elementor-post-16981">
-      .elementor-16981
-        .elementor-element.elementor-element-dda2204
+    <style id="elementor-post-19388">
+      .elementor-19388
+        .elementor-element.elementor-element-b867982
         > .elementor-container
         > .elementor-column
         > .elementor-widget-wrap {
         align-content: center;
         align-items: center;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-dda2204
+      .elementor-19388
+        .elementor-element.elementor-element-b867982
         .trx_addons_bg_text {
         z-index: 0;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-dda2204
+      .elementor-19388
+        .elementor-element.elementor-element-b867982
         .trx_addons_bg_text.trx_addons_marquee_wrap:not(
           .trx_addons_marquee_reverse
         )
         .trx_addons_marquee_element {
         padding-right: 50px;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-dda2204
+      .elementor-19388
+        .elementor-element.elementor-element-b867982
         .trx_addons_bg_text.trx_addons_marquee_wrap.trx_addons_marquee_reverse
         .trx_addons_marquee_element {
         padding-left: 50px;
       }
-      .elementor-16981 .elementor-element.elementor-element-dda2204 {
+      .elementor-19388 .elementor-element.elementor-element-b867982 {
         padding: 20px 55px 20px 55px;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-13620b
-        > .elementor-widget-container {
-        margin: 4px 55px 0px 0px;
-      }
-      .elementor-16981 .elementor-element.elementor-element-13620b .logo_image {
+      .elementor-19388
+        .elementor-element.elementor-element-c8b2511
+        .logo_image {
         max-height: 50px;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-cfb610f
+      .elementor-19388
+        .elementor-element.elementor-element-2e31eb3
         > .elementor-widget-container {
-        margin: 0px 7px 0px 0px;
+        margin: -5px 0px 0px 25px;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-5117b5cc
+      .elementor-19388
+        .elementor-element.elementor-element-0369618
         > .elementor-widget-container {
-        margin: -2px 0px 0px 0px;
+        margin: 0px 0px 0px 8px;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-98552ab
+      .elementor-19388
+        .elementor-element.elementor-element-de7cbbe
         > .elementor-widget-container {
-        margin: 0px 20px 0px 0px;
+        margin: 0px 0px 0px 45px;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-0b5c6fe
+      .elementor-19388
+        .elementor-element.elementor-element-c63928d
         > .elementor-container
         > .elementor-column
         > .elementor-widget-wrap {
         align-content: center;
         align-items: center;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-0b5c6fe
-        > .elementor-container {
-        min-height: 80px;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-0b5c6fe
+      .elementor-19388
+        .elementor-element.elementor-element-c63928d
         .trx_addons_bg_text {
         z-index: 0;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-0b5c6fe
+      .elementor-19388
+        .elementor-element.elementor-element-c63928d
         .trx_addons_bg_text.trx_addons_marquee_wrap:not(
           .trx_addons_marquee_reverse
         )
         .trx_addons_marquee_element {
         padding-right: 50px;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-0b5c6fe
+      .elementor-19388
+        .elementor-element.elementor-element-c63928d
         .trx_addons_bg_text.trx_addons_marquee_wrap.trx_addons_marquee_reverse
         .trx_addons_marquee_element {
         padding-left: 50px;
       }
-      .elementor-16981 .elementor-element.elementor-element-0b5c6fe {
-        padding: 0px 55px 0px 55px;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-f617bce
-        > .elementor-widget-container {
-        margin: 4px 0px 0px 0px;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-f617bce
-        .logo_image {
-        max-height: 45px;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-ebadef2
-        > .elementor-widget-container {
-        margin: 0px 0px 0px 0px;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-8734d73
-        > .elementor-widget-container {
-        margin: -2px 0px 0px 0px;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-d466509
-        > .elementor-widget-container {
-        margin: 0px 10px 0px 0px;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-9b47173
-        > .elementor-container
-        > .elementor-column
-        > .elementor-widget-wrap {
-        align-content: center;
-        align-items: center;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-9b47173:not(
-          .elementor-motion-effects-element-type-background
-        ),
-      .elementor-16981
-        .elementor-element.elementor-element-9b47173
-        > .elementor-motion-effects-container
-        > .elementor-motion-effects-layer {
-        background-color: #ffffff;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-9b47173
-        .trx_addons_bg_text {
-        z-index: 0;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-9b47173
-        .trx_addons_bg_text.trx_addons_marquee_wrap:not(
-          .trx_addons_marquee_reverse
-        )
-        .trx_addons_marquee_element {
-        padding-right: 50px;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-9b47173
-        .trx_addons_bg_text.trx_addons_marquee_wrap.trx_addons_marquee_reverse
-        .trx_addons_marquee_element {
-        padding-left: 50px;
-      }
-      .elementor-16981 .elementor-element.elementor-element-9b47173 {
-        transition:
-          background 0.3s,
-          border 0.3s,
-          border-radius 0.3s,
-          box-shadow 0.3s;
+      .elementor-19388 .elementor-element.elementor-element-c63928d {
         padding: 5px 0px 5px 0px;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-9b47173
-        > .elementor-background-overlay {
-        transition:
-          background 0.3s,
-          border-radius 0.3s,
-          opacity 0.3s;
-      }
-      .elementor-16981
-        .elementor-element.elementor-element-595adcb
+      .elementor-19388
+        .elementor-element.elementor-element-ed15b1d
         > .elementor-widget-container {
         margin: 2px 0px 0px 0px;
       }
-      .elementor-16981
-        .elementor-element.elementor-element-595adcb
+      .elementor-19388
+        .elementor-element.elementor-element-ed15b1d
         .logo_image {
         max-height: 40px;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-f0c93b8
+        > .elementor-widget-container {
+        margin: -5px 0px 0px 0px;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-f3fc1ee
+        > .elementor-widget-container {
+        margin: 2px 0px 0px 0px;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-9bed7f8
+        .trx_addons_bg_text {
+        z-index: 0;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-9bed7f8
+        .trx_addons_bg_text.trx_addons_marquee_wrap:not(
+          .trx_addons_marquee_reverse
+        )
+        .trx_addons_marquee_element {
+        padding-right: 50px;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-9bed7f8
+        .trx_addons_bg_text.trx_addons_marquee_wrap.trx_addons_marquee_reverse
+        .trx_addons_marquee_element {
+        padding-left: 50px;
+      }
+      .elementor-19388 .elementor-element.elementor-element-eef52ad {
+        --spacer-size: 120px;
+      }
+      .elementor-19388 .elementor-element.elementor-element-d142b24 {
+        --spacer-size: 20px;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-42cdf8f
+        .sc_layouts_title {
+        min-height: 0px;
+      }
+      .elementor-19388 .elementor-element.elementor-element-74a14dc {
+        --spacer-size: 30px;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-8f4b717
+        .elementor-icon-wrapper {
+        text-align: center;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-8f4b717.elementor-view-stacked
+        .elementor-icon {
+        background-color: #141541;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-8f4b717.elementor-view-framed
+        .elementor-icon,
+      .elementor-19388
+        .elementor-element.elementor-element-8f4b717.elementor-view-default
+        .elementor-icon {
+        color: #141541;
+        border-color: #141541;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-8f4b717.elementor-view-framed
+        .elementor-icon,
+      .elementor-19388
+        .elementor-element.elementor-element-8f4b717.elementor-view-default
+        .elementor-icon
+        svg {
+        fill: #141541;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-8f4b717
+        .elementor-icon {
+        font-size: 15px;
+      }
+      .elementor-19388
+        .elementor-element.elementor-element-8f4b717
+        .elementor-icon
+        svg {
+        height: 15px;
       }
       .trx-addons-layout--edit-mode .trx-addons-layout__inner {
         background-color: var(--theme-color-bg_color);
@@ -1313,39 +1292,71 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
         background-color: var(--theme-color-bg_color);
       }
       @media (max-width: 1024px) {
-        .elementor-16981 .elementor-element.elementor-element-dda2204 {
-          padding: 10px 20px 10px 20px;
+        .elementor-19388 .elementor-element.elementor-element-eef52ad {
+          --spacer-size: 90px;
         }
-        .elementor-16981 .elementor-element.elementor-element-0b5c6fe {
-          padding: 10px 20px 10px 20px;
+        .elementor-19388 .elementor-element.elementor-element-74a14dc {
+          --spacer-size: 20px;
         }
-      }
-      @media (max-width: 767px) {
-        .elementor-16981 .elementor-element.elementor-element-47bf8dc {
-          width: 50%;
+        .elementor-19388
+          .elementor-element.elementor-element-8f4b717
+          .elementor-icon {
+          font-size: 14px;
         }
-        .elementor-16981 .elementor-element.elementor-element-154c173 {
-          width: 50%;
+        .elementor-19388
+          .elementor-element.elementor-element-8f4b717
+          .elementor-icon
+          svg {
+          height: 14px;
         }
       }
       @media (min-width: 768px) {
-        .elementor-16981 .elementor-element.elementor-element-5b70e8c4 {
-          width: 66.019%;
+        .elementor-19388 .elementor-element.elementor-element-2dd841d {
+          width: 25%;
         }
-        .elementor-16981 .elementor-element.elementor-element-3742cd7a {
-          width: 33.943%;
+        .elementor-19388 .elementor-element.elementor-element-599957f {
+          width: 74.962%;
         }
-        .elementor-16981 .elementor-element.elementor-element-8d8a505 {
-          width: 66%;
-        }
-        .elementor-16981 .elementor-element.elementor-element-1b9d7ee {
-          width: 33.962%;
-        }
-        .elementor-16981 .elementor-element.elementor-element-47bf8dc {
+        .elementor-19388 .elementor-element.elementor-element-c060a01 {
           width: 24.999%;
         }
-        .elementor-16981 .elementor-element.elementor-element-154c173 {
+        .elementor-19388 .elementor-element.elementor-element-a97c3f0 {
           width: 75.001%;
+        }
+      }
+      @media (max-width: 767px) {
+        .elementor-19388 .elementor-element.elementor-element-c060a01 {
+          width: 50%;
+        }
+        .elementor-19388 .elementor-element.elementor-element-a97c3f0 {
+          width: 50%;
+        }
+        .elementor-19388
+          .elementor-element.elementor-element-f0c93b8
+          > .elementor-widget-container {
+          margin: -7px 0px 0px 0px;
+        }
+        .elementor-19388
+          .elementor-element.elementor-element-f3fc1ee
+          > .elementor-widget-container {
+          margin: -2px 0px 0px 0px;
+        }
+        .elementor-19388 .elementor-element.elementor-element-eef52ad {
+          --spacer-size: 60px;
+        }
+        .elementor-19388 .elementor-element.elementor-element-74a14dc {
+          --spacer-size: 8px;
+        }
+        .elementor-19388
+          .elementor-element.elementor-element-8f4b717
+          .elementor-icon {
+          font-size: 13px;
+        }
+        .elementor-19388
+          .elementor-element.elementor-element-8f4b717
+          .elementor-icon
+          svg {
+          height: 13px;
         }
       }
     </style>
@@ -1655,10 +1666,42 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     <link
       property="stylesheet"
       rel="stylesheet"
+      id="trx_addons-widget_contacts-css"
+      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/widgets/contacts/contacts.css"
+      type="text/css"
+      media="all"
+    />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
       id="trx_addons-widget_custom_links-css"
       href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/widgets/custom_links/custom_links.css"
       type="text/css"
       media="all"
+    />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
+      id="trx_addons-cf7-css"
+      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/api/contact-form-7/contact-form-7.css"
+      type="text/css"
+      media="all"
+    />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
+      id="trx_addons-woocommerce-css"
+      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/api/woocommerce/woocommerce.css"
+      type="text/css"
+      media="all"
+    />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
+      id="trx_addons-woocommerce-responsive-css"
+      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/api/woocommerce/woocommerce.responsive.css"
+      type="text/css"
+      media="(max-width:1279px)"
     />
     <link
       property="stylesheet"
@@ -1716,14 +1759,6 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
       type="text/css"
       media="all"
     />
-    <link
-      property="stylesheet"
-      rel="stylesheet"
-      id="trx_addons-woocommerce-css"
-      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/api/woocommerce/woocommerce.css"
-      type="text/css"
-      media="all"
-    />
 
     <link
       property="stylesheet"
@@ -1741,6 +1776,22 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
       type="text/css"
       media="all"
     />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
+      id="trx_addons-cpt_services-css"
+      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/cpt/services/services.css"
+      type="text/css"
+      media="all"
+    />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
+      id="trx_addons-widget_video-css"
+      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/widgets/video/video.css"
+      type="text/css"
+      media="all"
+    />
 
     <link
       property="stylesheet"
@@ -1751,17 +1802,30 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
       media="all"
     />
 
+    <style id="core-block-supports-inline-css" type="text/css">
+      .wp-block-gallery.wp-block-gallery-1 {
+        --wp--style--unstable-gallery-gap: var(
+          --wp--style--gallery-gap-default,
+          var(--gallery-block--gutter-size, var(--wp--style--block-gap, 0.5em))
+        );
+        gap: var(
+          --wp--style--gallery-gap-default,
+          var(--gallery-block--gutter-size, var(--wp--style--block-gap, 0.5em))
+        );
+      }
+    </style>
+
     <style id="rs-plugin-settings-inline-css" type="text/css">
       #rs-demo-id {
       }
     </style>
     <style type="text/css">
-      .trx_demo_inline_1413529933 {
+      .trx_demo_inline_362352548 {
         color: #ffffff !important;
         border-color: #1d2297 !important;
         background-color: #1d2297 !important;
       }
-      .trx_demo_inline_972685958:hover {
+      .trx_demo_inline_551943809:hover {
         color: #ffffff !important;
         border-color: #141641 !important;
         background-color: #141641 !important;
@@ -1811,16 +1875,16 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     <link
       property="stylesheet"
       rel="stylesheet"
-      id="greeny-plugins-css"
-      href="https://greeny.axiomthemes.com/wp-content/themes/greeny/skins/default/css/__plugins.css"
+      id="trx_addons_qw_extension-services-css"
+      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/addons/qw-extension/css/qw_extension_services.css"
       type="text/css"
       media="all"
     />
     <link
       property="stylesheet"
       rel="stylesheet"
-      id="greeny-woocommerce-css"
-      href="https://greeny.axiomthemes.com/wp-content/themes/greeny/skins/default/plugins/woocommerce/woocommerce.css"
+      id="greeny-plugins-css"
+      href="https://greeny.axiomthemes.com/wp-content/themes/greeny/skins/default/css/__plugins.css"
       type="text/css"
       media="all"
     />
@@ -3569,10 +3633,34 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     <link
       property="stylesheet"
       rel="stylesheet"
+      id="greeny-contact-form-7-css"
+      href="https://greeny.axiomthemes.com/wp-content/themes/greeny/skins/default/plugins/contact-form-7/contact-form-7.css"
+      type="text/css"
+      media="all"
+    />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
       id="greeny-mailchimp-for-wp-css"
       href="https://greeny.axiomthemes.com/wp-content/themes/greeny/skins/default/plugins/mailchimp-for-wp/mailchimp-for-wp.css"
       type="text/css"
       media="all"
+    />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
+      id="greeny-woocommerce-css"
+      href="https://greeny.axiomthemes.com/wp-content/themes/greeny/skins/default/plugins/woocommerce/woocommerce.css"
+      type="text/css"
+      media="all"
+    />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
+      id="greeny-woocommerce-responsive-css"
+      href="https://greeny.axiomthemes.com/wp-content/themes/greeny/skins/default/plugins/woocommerce/woocommerce-responsive.css"
+      type="text/css"
+      media="(max-width:1679px)"
     />
     <link
       property="stylesheet"
@@ -3585,24 +3673,24 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     <link
       property="stylesheet"
       rel="stylesheet"
-      id="trx_addons-woocommerce-responsive-css"
-      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/api/woocommerce/woocommerce.responsive.css"
+      id="trx_addons_qw_extension-services-responsive-css"
+      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/addons/qw-extension/css/qw_extension_services.responsive.css"
       type="text/css"
-      media="(max-width:1279px)"
+      media="all"
+    />
+    <link
+      property="stylesheet"
+      rel="stylesheet"
+      id="trx_addons-cpt_services-responsive-css"
+      href="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/cpt/services/services.responsive.css"
+      type="text/css"
+      media="(max-width:1439px)"
     />
     <link
       property="stylesheet"
       rel="stylesheet"
       id="greeny-responsive-css"
       href="https://greeny.axiomthemes.com/wp-content/themes/greeny/skins/default/css/__responsive.css"
-      type="text/css"
-      media="(max-width:1679px)"
-    />
-    <link
-      property="stylesheet"
-      rel="stylesheet"
-      id="greeny-woocommerce-responsive-css"
-      href="https://greeny.axiomthemes.com/wp-content/themes/greeny/skins/default/plugins/woocommerce/woocommerce-responsive.css"
       type="text/css"
       media="(max-width:1679px)"
     />
@@ -3642,7 +3730,7 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
       rel="alternate"
       title="JSON"
       type="application/json"
-      href="https://greeny.axiomthemes.com/wp-json/wp/v2/product/2382"
+      href="https://greeny.axiomthemes.com/wp-json/wp/v2/cpt_services/20106"
     />
     <link
       rel="EditURI"
@@ -3654,20 +3742,20 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     <meta name="generator" content="WooCommerce 9.3.5" />
     <link
       rel="canonical"
-      href="https://greeny.axiomthemes.com/product/car-model-a/"
+      href="https://greeny.axiomthemes.com/services/charging-stations/"
     />
-    <link rel="shortlink" href="https://greeny.axiomthemes.com/?p=2382" />
+    <link rel="shortlink" href="https://greeny.axiomthemes.com/?p=20106" />
     <link
       rel="alternate"
       title="oEmbed (JSON)"
       type="application/json+oembed"
-      href="https://greeny.axiomthemes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgreeny.axiomthemes.com%2Fproduct%2Fcar-model-a%2F"
+      href="https://greeny.axiomthemes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgreeny.axiomthemes.com%2Fservices%2Fcharging-stations%2F"
     />
     <link
       rel="alternate"
       title="oEmbed (XML)"
       type="text/xml+oembed"
-      href="https://greeny.axiomthemes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgreeny.axiomthemes.com%2Fproduct%2Fcar-model-a%2F&#038;format=xml"
+      href="https://greeny.axiomthemes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgreeny.axiomthemes.com%2Fservices%2Fcharging-stations%2F&#038;format=xml"
     />
     <link
       rel="preload"
@@ -3835,962 +3923,385 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     </script>
 
     <style type="text/css" id="trx_addons-inline-styles-inline-css">
-      .trx_addons_inline_806740390 img.logo_image {
+      .trx_addons_inline_203075364 img.logo_image {
         max-height: 50px;
       }
-      .trx_addons_inline_403191029 img.logo_image {
-        max-height: 45px;
-      }
-      .trx_addons_inline_1877630130 img.logo_image {
+      .trx_addons_inline_12086353 img.logo_image {
         max-height: 40px;
       }
-      #woocommerce_output_start {
-      }
-      #woocommerce_output_end {
-      }
-      .trx_addons_inline_916344723 img.logo_image {
+      .trx_addons_inline_1527534487 img.logo_image {
         max-height: 50px;
       }
     </style>
   </head>
-
 @endsection
 
 
 @section('content')
 
 
-   <div class="page_content_wrap">
+     <div class="page_content_wrap">
           <div class="content_wrap">
             <div class="content">
               <span
                 id="content_skip_link_anchor"
                 class="greeny_skip_link_anchor"
               ></span>
-
-              <article class="post_item_single post_type_product">
-                <nav class="woocommerce-breadcrumb" aria-label="Breadcrumb">
-                  <span class="woocommerce-breadcrumb-item"
-                    ><a href="https://greeny.axiomthemes.com">Home</a></span
-                  ><span class="woocommerce-breadcrumb-delimiter"></span
-                  ><span class="woocommerce-breadcrumb-item"
-                    ><a
-                      href="https://greeny.axiomthemes.com/product-category/batteries/"
-                      >Batteries</a
-                    ></span
-                  ><span class="woocommerce-breadcrumb-delimiter"></span
-                  ><span class="woocommerce-breadcrumb-item">Car Model A</span>
-                </nav>
-
-                <div class="woocommerce-notices-wrapper"></div>
-                <div
-                  id="product-2382"
-                  class="product type-product post-2382 status-publish first instock product_cat-batteries product_tag-cable product_tag-ev product_tag-portable has-post-thumbnail shipping-taxable purchasable product-type-simple"
-                >
+              <article
+                id="post-20106"
+                data-post-id="20106"
+                class="services_single itemscope post-20106 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-benefits"
+              >
+                <section class="services_page_header">
+                  <div class="services_page_featured">
+                    <img
+                      loading="lazy"
+                      width="1920"
+                      height="1600"
+                      src="https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1.jpg"
+                      class="attachment-full size-full wp-post-image"
+                      alt="Charging Stations"
+                      decoding="async"
+                      srcset="
+                        https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1.jpg           1920w,
+                        https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1-300x250.jpg    300w,
+                        https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1-1024x853.jpg  1024w,
+                        https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1-768x640.jpg    768w,
+                        https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1-1536x1280.jpg 1536w,
+                        https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1-370x308.jpg    370w,
+                        https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1-840x700.jpg    840w,
+                        https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1-410x342.jpg    410w,
+                        https://greeny.axiomthemes.com/wp-content/uploads/2022/03/home3-image1-600x500.jpg    600w
+                      "
+                      sizes="(max-width: 1920px) 100vw, 1920px"
+                    />
+                  </div>
+                </section>
+                <section class="services_page_content entry-content">
+                  <p>
+                    Mauris eu nisi eget nisi imperdiet vestibulum. Nunc sodales
+                    vehicula risus. Suspendisse id mauris sodales, blandit
+                    tortor eu, sodales justo. Morbi tincidunt, ante vel suscipit
+                    volutpat, turpis enim volutpSectetur adipiscing elit, sed do
+                    eiusm onsectetur adipiscing elit, sed do eiusm od tempor
+                    incididunt ut labore. Ut vel placerat eros, eu tincidunt
+                    velit. Consectetur adipiscing elit, adipiscing elit, sed do.
+                  </p>
+                  <h5 class="wp-block-heading">
+                    Sed ut perspiciatis unde omnis iste natus et
+                  </h5>
+                  <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                    diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                    aliquyam erat, sed diam voluptua. At vero eos et accusam et
+                    justo duo dolores et ea rebum. Stet clita kasd gubergren, no
+                    sea takimata sanctus est Lorem ipsum dolor sit amet.
+                  </p>
+                  <p>
+                    Aliquam laoreet sed neque ac vehicula. Cras congue eros nec
+                    quam laoreet, in viverra erat bibendum. Cras turpis urna,
+                    vulputate at est vitae, posuere lobortis erat.
+                  </p>
                   <div
-                    class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images woocommerce-product-gallery--with-thumbs"
-                    data-columns="4"
-                    style="opacity: 0; transition: opacity 0.25s ease-in-out"
+                    style="height: 20px"
+                    aria-hidden="true"
+                    class="wp-block-spacer extra_tiny_spacer"
+                  ></div>
+                  <figure
+                    class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"
                   >
-                    <div class="woocommerce-product-gallery__wrapper">
-                      <div
-                        data-thumb="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-150x150.jpg"
-                        data-thumb-alt=""
-                        data-thumb-srcset="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-150x150.jpg 150w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-300x300.jpg 300w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-1024x1024.jpg 1024w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-768x768.jpg 768w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-370x370.jpg 370w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-120x120.jpg 120w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-840x840.jpg 840w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-410x410.jpg 410w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-630x630.jpg 630w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-600x600.jpg 600w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3.jpg 1200w"
-                        class="woocommerce-product-gallery__image"
-                      >
-                        <a
-                          href="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3.jpg"
-                          ><img
-                            loading="lazy"
-                            width="600"
-                            height="600"
-                            src="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-600x600.jpg"
-                            class="wp-post-image"
-                            alt=""
-                            title="product-car3"
-                            data-caption=""
-                            data-src="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3.jpg"
-                            data-large_image="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3.jpg"
-                            data-large_image_width="1200"
-                            data-large_image_height="1200"
-                            decoding="async"
-                            srcset="
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-600x600.jpg    600w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-300x300.jpg    300w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-1024x1024.jpg 1024w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-150x150.jpg    150w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-768x768.jpg    768w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-370x370.jpg    370w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-120x120.jpg    120w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-840x840.jpg    840w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-410x410.jpg    410w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3-630x630.jpg    630w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car3.jpg           1200w
-                            "
-                            sizes="(max-width: 600px) 100vw, 600px"
-                        /></a>
-                      </div>
-                      <div
-                        data-thumb="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-150x150.jpg"
-                        data-thumb-alt=""
-                        data-thumb-srcset="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-150x150.jpg 150w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-300x300.jpg 300w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-1024x1024.jpg 1024w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-768x768.jpg 768w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-370x370.jpg 370w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-120x120.jpg 120w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-840x840.jpg 840w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-410x410.jpg 410w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-630x630.jpg 630w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-600x600.jpg 600w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1.jpg 1200w"
-                        class="woocommerce-product-gallery__image"
-                      >
-                        <a
-                          href="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1.jpg"
-                          ><img
-                            loading="lazy"
-                            width="600"
-                            height="600"
-                            src="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-600x600.jpg"
-                            class=""
-                            alt=""
-                            title="product-car1"
-                            data-caption=""
-                            data-src="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1.jpg"
-                            data-large_image="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1.jpg"
-                            data-large_image_width="1200"
-                            data-large_image_height="1200"
-                            decoding="async"
-                            srcset="
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-600x600.jpg    600w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-300x300.jpg    300w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-1024x1024.jpg 1024w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-150x150.jpg    150w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-768x768.jpg    768w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-370x370.jpg    370w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-120x120.jpg    120w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-840x840.jpg    840w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-410x410.jpg    410w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1-630x630.jpg    630w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car1.jpg           1200w
-                            "
-                            sizes="(max-width: 600px) 100vw, 600px"
-                        /></a>
-                      </div>
-                      <div
-                        data-thumb="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-150x150.jpg"
-                        data-thumb-alt=""
-                        data-thumb-srcset="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-150x150.jpg 150w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-300x300.jpg 300w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-1024x1024.jpg 1024w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-768x768.jpg 768w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-370x370.jpg 370w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-120x120.jpg 120w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-840x840.jpg 840w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-410x410.jpg 410w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-630x630.jpg 630w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-600x600.jpg 600w, https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2.jpg 1200w"
-                        class="woocommerce-product-gallery__image"
-                      >
-                        <a
-                          href="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2.jpg"
-                          ><img
-                            loading="lazy"
-                            width="600"
-                            height="600"
-                            src="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-600x600.jpg"
-                            class=""
-                            alt=""
-                            title="product-car2"
-                            data-caption=""
-                            data-src="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2.jpg"
-                            data-large_image="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2.jpg"
-                            data-large_image_width="1200"
-                            data-large_image_height="1200"
-                            decoding="async"
-                            srcset="
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-600x600.jpg    600w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-300x300.jpg    300w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-1024x1024.jpg 1024w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-150x150.jpg    150w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-768x768.jpg    768w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-370x370.jpg    370w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-120x120.jpg    120w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-840x840.jpg    840w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-410x410.jpg    410w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2-630x630.jpg    630w,
-                              https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-car2.jpg           1200w
-                            "
-                            sizes="(max-width: 600px) 100vw, 600px"
-                        /></a>
-                      </div>
-                    </div>
-                  </div>
+                    <figure class="wp-block-image size-large">
+                      <img
+                        loading="lazy"
+                        decoding="async"
+                        width="1024"
+                        height="683"
+                        data-id="19955"
+                        src="https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image1-1024x683.jpg"
+                        alt=""
+                        class="wp-image-19955"
+                        srcset="
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image1-1024x683.jpg  1024w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image1-300x200.jpg    300w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image1-768x512.jpg    768w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image1-1536x1024.jpg 1536w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image1-370x247.jpg    370w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image1-840x560.jpg    840w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image1-410x273.jpg    410w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image1-600x400.jpg    600w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image1.jpg           1920w
+                        "
+                        sizes="(max-width: 1024px) 100vw, 1024px"
+                      />
+                    </figure>
 
-                  <div class="summary entry-summary">
-                    <h1 class="product_title entry-title">Car Model A</h1>
-                    <div class="woocommerce-product-rating">
+                    <figure class="wp-block-image size-large">
+                      <img
+                        loading="lazy"
+                        decoding="async"
+                        width="1024"
+                        height="683"
+                        data-id="19956"
+                        src="https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image2-1024x683.jpg"
+                        alt=""
+                        class="wp-image-19956"
+                        srcset="
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image2-1024x683.jpg  1024w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image2-300x200.jpg    300w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image2-768x512.jpg    768w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image2-1536x1024.jpg 1536w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image2-370x247.jpg    370w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image2-840x560.jpg    840w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image2-410x273.jpg    410w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image2-600x400.jpg    600w,
+                          https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image2.jpg           1920w
+                        "
+                        sizes="(max-width: 1024px) 100vw, 1024px"
+                      />
+                    </figure>
+                  </figure>
+                  <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                    diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                    aliquyam erat, sed diam voluptua. At vero eos et accusam et
+                    justo duo dolores et ea rebum. Stet clita kasd gubergren, no
+                    sea takimata sanctus est Lorem ipsum dolor sit amet.
+                  </p>
+                  <h5 class="wp-block-heading">Aliquam quis lobortis quam</h5>
+                  <p>
+                    Curabitur pellentesque odio magna, id malesuada arcu sodales
+                    ut. Sed sed quam ut ex bibendum commodo id id magna. Aliquam
+                    sed ligula sed ante blandit volutpat. Ut bibendum, nisi et
+                    mattis vulputate, odio arcu aliquet metus, nec dapibus risus
+                    risus quis lectus.
+                  </p>
+                  <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                    diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                    aliquyam erat, sed diam voluptua. At vero eos et accusam et
+                    justo duo dolores et ea rebum. Stet clita kasd gubergren, no
+                    sea takimata sanctus est Lorem ipsum dolor sit amet.
+                  </p>
+                  <div
+                    style="height: 20px"
+                    aria-hidden="true"
+                    class="wp-block-spacer tiny_spacer"
+                  ></div>
+                  <div class="widget_area sc_widget_video">
+                    <aside class="widget widget_video">
                       <div
-                        class="star-rating"
-                        role="img"
-                        aria-label="Rated 5.00 out of 5"
+                        id="sc_video_1056967210"
+                        class="trx_addons_video_player with_cover hover_play"
                       >
-                        <span style="width: 100%"
-                          >Rated <strong class="rating">5.00</strong> out of 5
-                          based on <span class="rating">1</span> customer
-                          rating</span
-                        >
-                      </div>
-                      <a
-                        href="#reviews"
-                        class="woocommerce-review-link"
-                        rel="nofollow"
-                        >(<span class="count">1</span> customer review)</a
-                      >
-                    </div>
-
-                    <p class="price">
-                      <span class="woocommerce-Price-amount amount"
-                        ><bdi
-                          ><span class="woocommerce-Price-currencySymbol"
-                            >&#36;</span
-                          >40,000.00</bdi
-                        ></span
-                      >
-                    </p>
-                    <div class="woocommerce-product-details__short-description">
-                      <p>
-                        Dicta sunt explicabo. Nemo enim ipsam voluptatem
-                        voluptas sit odit aut fugit, sed quia consequuntur.
-                        Lorem ipsum nonum eirmod dolor.
-                      </p>
-                      <p>
-                        Aquia sit amet, elitr, sed diam nonum eirmod tempor
-                        invidunt labore et dolore magna aliquyam.erat, sed diam
-                        voluptua. At vero accusam et justo duo dolores et ea
-                        rebum.
-                      </p>
-                    </div>
-
-                    <form
-                      class="cart"
-                      action="https://greeny.axiomthemes.com/product/car-model-a/"
-                      method="post"
-                      enctype="multipart/form-data"
-                    >
-                      <div class="quantity">
-                        <label
-                          class="screen-reader-text"
-                          for="quantity_697f7f33464d7"
-                          >Car Model A quantity</label
-                        >
-                        <input
-                          type="number"
-                          id="quantity_697f7f33464d7"
-                          class="input-text qty text"
-                          name="quantity"
-                          value="1"
-                          aria-label="Product quantity"
-                          size="4"
-                          min="1"
-                          max=""
-                          step="1"
-                          placeholder=""
-                          inputmode="numeric"
-                          autocomplete="off"
+                        <img
+                          loading="lazy"
+                          decoding="async"
+                          src="https://greeny.axiomthemes.com/wp-content/uploads/2020/04/post-image3.jpg"
+                          alt="Video cover"
+                          width="1920"
+                          height="1280"
                         />
+                        <div class="video_mask"></div>
+                        <div
+                          class="video_hover"
+                          data-video='&lt;iframe allow="autoplay" src="https://www.youtube.com/embed/KitQQHm0Eoc?feature=oembed&amp;%23038%3Bwmode=transparent&amp;%23038%3Borigin=https%3A%2F%2Fgreeny.axiomthemes.com&amp;%23038%3Bwidgetid=1&amp;%23038%3Benablejsapi=1&amp;%23038%3Bdisablekb=1&amp;%23038%3Bmodestbranding=1&amp;%23038%3Biv_load_policy=3&amp;%23038%3Brel=0&amp;%23038%3Bshowinfo=0&amp;%23038%3Bplaysinline=1&amp;autoplay=1" width="840" height="473"&gt;&lt;/iframe&gt;'
+                        ></div>
+                        <div class="video_embed video_frame"></div>
                       </div>
-
-                      <button
-                        type="submit"
-                        name="add-to-cart"
-                        value="2382"
-                        class="single_add_to_cart_button button alt"
-                      >
-                        Buy now
-                      </button>
-
-                      <div
-                        class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-woocommerce_after_add_to_cart_button"
-                        data-tinvwl_product_id="2382"
-                      >
-                        <div class="tinv-wishlist-clear"></div>
-                        <a
-                          role="button"
-                          tabindex="0"
-                          name="add-to-wishlist"
-                          aria-label="Add to Wishlist"
-                          class="tinvwl_add_to_wishlist_button tinvwl-icon-heart tinvwl-position-shortcode"
-                          data-tinv-wl-list="[]"
-                          data-tinv-wl-product="2382"
-                          data-tinv-wl-productvariation="0"
-                          data-tinv-wl-productvariations="[]"
-                          data-tinv-wl-producttype="simple"
-                          data-tinv-wl-action="add"
-                          ><span class="tinvwl_add_to_wishlist-text"
-                            >Add to Wishlist</span
-                          ><span class="tinvwl_remove_from_wishlist-text"
-                            >Remove from Wishlist</span
-                          ></a
-                        >
-                        <div class="tinv-wishlist-clear"></div>
-                        <div class="tinvwl-tooltip">Add to Wishlist</div>
-                      </div>
-                    </form>
-
-                    <div class="product_meta">
-                      <span class="posted_in"
-                        >Category:
-                        <a
-                          href="https://greeny.axiomthemes.com/product-category/batteries/"
-                          rel="tag"
-                          >Batteries</a
-                        ></span
-                      >
-                      <span class="tagged_as"
-                        >Tags:
-                        <a
-                          href="https://greeny.axiomthemes.com/product-tag/cable/"
-                          rel="tag"
-                          >Cable</a
-                        >,
-                        <a
-                          href="https://greeny.axiomthemes.com/product-tag/ev/"
-                          rel="tag"
-                          >EV</a
-                        >,
-                        <a
-                          href="https://greeny.axiomthemes.com/product-tag/portable/"
-                          rel="tag"
-                          >Portable</a
-                        ></span
-                      >
-                      <span class="product_id"
-                        >Product ID: <span>2382</span></span
-                      >
-                    </div>
+                    </aside>
                   </div>
-
-                  <div class="woocommerce-tabs wc-tabs-wrapper">
-                    <ul class="tabs wc-tabs" role="tablist">
-                      <li
-                        class="description_tab"
-                        id="tab-title-description"
-                        role="tab"
-                        aria-controls="tab-description"
-                      >
-                        <a href="#tab-description"> Description </a>
-                      </li>
-                      <li
-                        class="reviews_tab"
-                        id="tab-title-reviews"
-                        role="tab"
-                        aria-controls="tab-reviews"
-                      >
-                        <a href="#tab-reviews"> Reviews (1) </a>
-                      </li>
-                    </ul>
-                    <div
-                      class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab"
-                      id="tab-description"
-                      role="tabpanel"
-                      aria-labelledby="tab-title-description"
-                    >
-                      <h2>Description</h2>
-
-                      <p>
-                        Dicta sunt explicabo. Nemo enim ipsam voluptatem
-                        voluptas sit odit aut fugit, sed quia consequuntur.
-                        Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum
-                        eirmod tempor invidunt labore et dolore magna
-                        aliquyam.erat, sed diam voluptua. At vero accusam et
-                        justo duo dolores et ea rebum. Stet clitain vidunt ut
-                        labore eirmod tempor invidunt magna aliquyam.
-                      </p>
-                    </div>
-                    <div
-                      class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab"
-                      id="tab-reviews"
-                      role="tabpanel"
-                      aria-labelledby="tab-title-reviews"
-                    >
-                      <div id="reviews" class="woocommerce-Reviews">
-                        <div id="comments">
-                          <h2 class="woocommerce-Reviews-title">
-                            1 review for <span>Car Model A</span>
-                          </h2>
-
-                          <ol class="commentlist">
-                            <li
-                              class="review byuser comment-author-trx_admin bypostauthor even thread-even depth-1"
-                              id="li-comment-17"
-                            >
-                              <div id="comment-17" class="comment_container">
-                                <img
-                                  alt=""
-                                  src="https://secure.gravatar.com/avatar/15821ee71c108d467dbb324d36b5077ee14eb4b3bc7d1c127d7ef2f076e909f3?s=60&#038;d=mm&#038;r=g"
-                                  srcset="
-                                    https://secure.gravatar.com/avatar/15821ee71c108d467dbb324d36b5077ee14eb4b3bc7d1c127d7ef2f076e909f3?s=120&#038;d=mm&#038;r=g 2x
-                                  "
-                                  class="avatar avatar-60 photo"
-                                  height="60"
-                                  width="60"
-                                  decoding="async"
-                                />
-                                <div class="comment-text">
-                                  <div
-                                    class="star-rating"
-                                    role="img"
-                                    aria-label="Rated 5 out of 5"
-                                  >
-                                    <span style="width: 100%"
-                                      >Rated
-                                      <strong class="rating">5</strong> out of
-                                      5</span
-                                    >
-                                  </div>
-                                  <p class="meta">
-                                    <strong class="woocommerce-review__author"
-                                      >Ashton Porter
-                                    </strong>
-                                    <span class="woocommerce-review__dash"
-                                      >&ndash;</span
-                                    >
-                                    <time
-                                      class="woocommerce-review__published-date"
-                                      datetime="2020-05-26T09:37:42+00:00"
-                                      >May 26, 2020</time
-                                    >
-                                  </p>
-
-                                  <div class="description">
-                                    <p>
-                                      At vero accusam et justo duo dolores et ea
-                                      rebum.
-                                    </p>
-                                  </div>
-                                </div>
-                              </div>
-                            </li>
-                            <!-- #comment-## -->
-                          </ol>
-                        </div>
-
-                        <div id="review_form_wrapper">
-                          <div id="review_form">
-                            <div id="respond" class="comment-respond">
-                              <span id="reply-title" class="comment-reply-title"
-                                >Add a review
-                                <small
-                                  ><a
-                                    rel="nofollow"
-                                    id="cancel-comment-reply-link"
-                                    href="/product/car-model-a/#respond"
-                                    style="display: none"
-                                    >Cancel reply</a
-                                  ></small
-                                ></span
-                              >
-                              <form
-                                action="https://greeny.axiomthemes.com/wp-comments-post.php"
-                                method="post"
-                                id="commentform"
-                                class="comment-form"
-                              >
-                                <p class="comment-notes">
-                                  <span id="email-notes"
-                                    >Your email address will not be
-                                    published.</span
-                                  >
-                                  <span class="required-field-message"
-                                    >Required fields are marked
-                                    <span class="required">*</span></span
-                                  >
-                                </p>
-                                <p class="comment-form-author">
-                                  <label for="author"
-                                    >Name&nbsp;<span class="required"
-                                      >*</span
-                                    ></label
-                                  ><input
-                                    id="author"
-                                    name="author"
-                                    type="text"
-                                    value=""
-                                    size="30"
-                                    required
-                                  />
-                                </p>
-                                <p class="comment-form-email">
-                                  <label for="email"
-                                    >Email&nbsp;<span class="required"
-                                      >*</span
-                                    ></label
-                                  ><input
-                                    id="email"
-                                    name="email"
-                                    type="email"
-                                    value=""
-                                    size="30"
-                                    required
-                                  />
-                                </p>
-                                <div class="comment-form-rating">
-                                  <label for="rating"
-                                    >Your rating&nbsp;<span class="required"
-                                      >*</span
-                                    ></label
-                                  ><select name="rating" id="rating" required>
-                                    <option value="">Rate&hellip;</option>
-                                    <option value="5">Perfect</option>
-                                    <option value="4">Good</option>
-                                    <option value="3">Average</option>
-                                    <option value="2">Not that bad</option>
-                                    <option value="1">Very poor</option>
-                                  </select>
-                                </div>
-                                <p class="comment-form-comment">
-                                  <label for="comment"
-                                    >Your review&nbsp;<span class="required"
-                                      >*</span
-                                    ></label
-                                  ><textarea
-                                    id="comment"
-                                    name="comment"
-                                    cols="45"
-                                    rows="8"
-                                    required
-                                  ></textarea>
-                                </p>
-                                <div
-                                  class="comments_field comments_i_agree_privacy_policy"
-                                >
-                                  <span class="sc_form_field_wrap"
-                                    ><input
-                                      id="i_agree_privacy_policy"
-                                      name="i_agree_privacy_policy"
-                                      type="checkbox"
-                                      value="1"
-                                    />
-                                    <label
-                                      for="i_agree_privacy_policy"
-                                      class="optional"
-                                      >I agree that my submitted data is being
-                                      collected and stored.</label
-                                    ></span
-                                  >
-                                </div>
-                                <p class="form-submit">
-                                  <input
-                                    name="submit"
-                                    type="submit"
-                                    id="submit"
-                                    class="submit"
-                                    value="Submit"
-                                  />
-                                  <input
-                                    type="hidden"
-                                    name="comment_post_ID"
-                                    value="2382"
-                                    id="comment_post_ID"
-                                  />
-                                  <input
-                                    type="hidden"
-                                    name="comment_parent"
-                                    id="comment_parent"
-                                    value="0"
-                                  />
-                                </p>
-                              </form>
-                            </div>
-                            <!-- #respond -->
-                          </div>
-                        </div>
-
-                        <div class="clear"></div>
-                      </div>
-                    </div>
-                  </div>
-
-                  <section class="related products">
-                    <h2>Related products</h2>
-
-                    <ul class="products columns-3">
-                      <li
-                        class="product type-product post-2338 status-publish first instock product_cat-maintenance product_tag-battery product_tag-ev product_tag-portable has-post-thumbnail shipping-taxable product-type-external"
-                      >
-                        <div class="post_item post_layout_thumbs">
-                          <div class="post_featured hover_shop">
-                            <a
-                              href="https://greeny.axiomthemes.com/product/charging-cord-for-ac-charger/"
-                            >
-                              <img
-                                width="630"
-                                height="630"
-                                src="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-630x630.jpg"
-                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt=""
-                                decoding="async"
-                                srcset="
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-630x630.jpg    630w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-300x300.jpg    300w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-1024x1024.jpg 1024w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-150x150.jpg    150w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-768x768.jpg    768w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-370x370.jpg    370w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-120x120.jpg    120w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-840x840.jpg    840w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-410x410.jpg    410w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4-600x600.jpg    600w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-4.jpg           1200w
-                                "
-                                sizes="(max-width: 630px) 100vw, 630px"
-                              />
-                            </a>
-                            <div class="mask"></div>
-                            <div class="icons">
-                              <div
-                                class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_before_shop_loop_item_title"
-                                data-tinvwl_product_id="2338"
-                              >
-                                <div class="tinv-wishlist-clear"></div>
-                                <a
-                                  role="button"
-                                  tabindex="0"
-                                  name="add-to-wishlist"
-                                  aria-label="Add to Wishlist"
-                                  class="tinvwl_add_to_wishlist_button tinvwl-icon-heart tinvwl-position-shortcode tinvwl-loop"
-                                  data-tinv-wl-list="[]"
-                                  data-tinv-wl-product="2338"
-                                  data-tinv-wl-productvariation="0"
-                                  data-tinv-wl-productvariations="[]"
-                                  data-tinv-wl-producttype="external"
-                                  data-tinv-wl-action="add"
-                                  ><span class="tinvwl_add_to_wishlist-text"
-                                    >Add to Wishlist</span
-                                  ><span
-                                    class="tinvwl_remove_from_wishlist-text"
-                                    >Remove from Wishlist</span
-                                  ></a
-                                >
-                                <div class="tinv-wishlist-clear"></div>
-                                <div class="tinvwl-tooltip">
-                                  Add to Wishlist
-                                </div>
-                              </div>
-                              <a
-                                rel="nofollow"
-                                href="https://www.amazon.com/"
-                                aria-hidden="true"
-                                data-quantity="1"
-                                data-product_id="2338"
-                                data-product_sku=""
-                                class="shop_cart icon-shopping-cart button add_to_cart_button product_type_external product_out_stock"
-                                ><span class="icon-anim"></span
-                              ></a>
-                              <a
-                                href="https://greeny.axiomthemes.com/product/charging-cord-for-ac-charger/"
-                                aria-hidden="true"
-                                class="shop_link"
-                              >
-                                <span class="icon-anim"></span>
-                              </a>
-                            </div>
-                          </div>
-                          <div class="post_data">
-                            <div class="post_data_inner">
-                              <div class="post_header entry-header">
-                                <h2 class="woocommerce-loop-product__title">
-                                  <a
-                                    href="https://greeny.axiomthemes.com/product/charging-cord-for-ac-charger/"
-                                    >Charging Cord for AC Charger</a
-                                  >
-                                </h2>
-                              </div>
-
-                              <span class="price"
-                                ><span class="woocommerce-Price-amount amount"
-                                  ><bdi
-                                    ><span
-                                      class="woocommerce-Price-currencySymbol"
-                                      >&#36;</span
-                                    >28.00</bdi
-                                  ></span
-                                ></span
-                              >
-                              <a
-                                href="https://www.amazon.com/"
-                                aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2338"
-                                data-quantity="1"
-                                class="button product_type_external"
-                                data-product_id="2338"
-                                data-product_sku=""
-                                aria-label="Buy on Amazon"
-                                rel="nofollow"
-                                >Buy on Amazon</a
-                              >
-                              <span
-                                id="woocommerce_loop_add_to_cart_link_describedby_2338"
-                                class="screen-reader-text"
-                              >
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </li>
-
-                      <li
-                        class="product type-product post-2336 status-publish instock product_cat-accessories product_tag-ev product_tag-portable product_tag-tools has-post-thumbnail shipping-taxable purchasable product-type-simple"
-                      >
-                        <div class="post_item post_layout_thumbs">
-                          <div class="post_featured hover_shop">
-                            <a
-                              href="https://greeny.axiomthemes.com/product/charging-station-model-b/"
-                            >
-                              <img
-                                width="630"
-                                height="630"
-                                src="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-630x630.jpg"
-                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt=""
-                                decoding="async"
-                                srcset="
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-630x630.jpg    630w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-300x300.jpg    300w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-1024x1024.jpg 1024w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-150x150.jpg    150w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-768x768.jpg    768w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-370x370.jpg    370w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-120x120.jpg    120w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-840x840.jpg    840w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-410x410.jpg    410w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10-600x600.jpg    600w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-10.jpg           1200w
-                                "
-                                sizes="(max-width: 630px) 100vw, 630px"
-                              />
-                            </a>
-                            <div class="mask"></div>
-                            <div class="icons">
-                              <div
-                                class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_before_shop_loop_item_title"
-                                data-tinvwl_product_id="2336"
-                              >
-                                <div class="tinv-wishlist-clear"></div>
-                                <a
-                                  role="button"
-                                  tabindex="0"
-                                  name="add-to-wishlist"
-                                  aria-label="Add to Wishlist"
-                                  class="tinvwl_add_to_wishlist_button tinvwl-icon-heart tinvwl-position-shortcode tinvwl-loop"
-                                  data-tinv-wl-list="[]"
-                                  data-tinv-wl-product="2336"
-                                  data-tinv-wl-productvariation="0"
-                                  data-tinv-wl-productvariations="[]"
-                                  data-tinv-wl-producttype="simple"
-                                  data-tinv-wl-action="add"
-                                  ><span class="tinvwl_add_to_wishlist-text"
-                                    >Add to Wishlist</span
-                                  ><span
-                                    class="tinvwl_remove_from_wishlist-text"
-                                    >Remove from Wishlist</span
-                                  ></a
-                                >
-                                <div class="tinv-wishlist-clear"></div>
-                                <div class="tinvwl-tooltip">
-                                  Add to Wishlist
-                                </div>
-                              </div>
-                              <a
-                                rel="nofollow"
-                                href="?add-to-cart=2336"
-                                aria-hidden="true"
-                                data-quantity="1"
-                                data-product_id="2336"
-                                data-product_sku=""
-                                class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple product_in_stock ajax_add_to_cart"
-                                ><span class="icon-anim"></span
-                              ></a>
-                              <a
-                                href="https://greeny.axiomthemes.com/product/charging-station-model-b/"
-                                aria-hidden="true"
-                                class="shop_link"
-                              >
-                                <span class="icon-anim"></span>
-                              </a>
-                            </div>
-                          </div>
-                          <div class="post_data">
-                            <div class="post_data_inner">
-                              <div class="post_header entry-header">
-                                <h2 class="woocommerce-loop-product__title">
-                                  <a
-                                    href="https://greeny.axiomthemes.com/product/charging-station-model-b/"
-                                    >Charging Station Model B</a
-                                  >
-                                </h2>
-                              </div>
-
-                              <span class="price"
-                                ><span class="woocommerce-Price-amount amount"
-                                  ><bdi
-                                    ><span
-                                      class="woocommerce-Price-currencySymbol"
-                                      >&#36;</span
-                                    >64.00</bdi
-                                  ></span
-                                ></span
-                              >
-                              <a
-                                href="?add-to-cart=2336"
-                                aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2336"
-                                data-quantity="1"
-                                class="button product_type_simple add_to_cart_button ajax_add_to_cart"
-                                data-product_id="2336"
-                                data-product_sku=""
-                                aria-label="Add to cart: &ldquo;Charging Station Model B&rdquo;"
-                                rel="nofollow"
-                                data-success_message="&ldquo;Charging Station Model B&rdquo; has been added to your cart"
-                                >Buy now</a
-                              >
-                              <span
-                                id="woocommerce_loop_add_to_cart_link_describedby_2336"
-                                class="screen-reader-text"
-                              >
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </li>
-
-                      <li
-                        class="product type-product post-2339 status-publish last instock product_cat-maintenance product_tag-charger product_tag-ev has-post-thumbnail shipping-taxable purchasable product-type-variable"
-                      >
-                        <div class="post_item post_layout_thumbs">
-                          <div class="post_featured hover_shop">
-                            <a
-                              href="https://greeny.axiomthemes.com/product/charging-cord-for-cv-charger/"
-                            >
-                              <img
-                                width="630"
-                                height="630"
-                                src="https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-630x630.jpg"
-                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt=""
-                                decoding="async"
-                                srcset="
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-630x630.jpg    630w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-300x300.jpg    300w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-1024x1024.jpg 1024w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-150x150.jpg    150w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-768x768.jpg    768w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-370x370.jpg    370w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-120x120.jpg    120w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-840x840.jpg    840w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-410x410.jpg    410w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8-600x600.jpg    600w,
-                                  https://greeny.axiomthemes.com/wp-content/uploads/2020/05/product-image-8.jpg           1200w
-                                "
-                                sizes="(max-width: 630px) 100vw, 630px"
-                              />
-                            </a>
-                            <div class="mask"></div>
-                            <div class="icons">
-                              <div
-                                class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_before_shop_loop_item_title"
-                                data-tinvwl_product_id="2339"
-                              >
-                                <div class="tinv-wishlist-clear"></div>
-                                <a
-                                  role="button"
-                                  tabindex="0"
-                                  name="add-to-wishlist"
-                                  aria-label="Add to Wishlist"
-                                  class="tinvwl_add_to_wishlist_button tinvwl-icon-heart tinvwl-position-shortcode tinvwl-loop"
-                                  data-tinv-wl-list="[]"
-                                  data-tinv-wl-product="2339"
-                                  data-tinv-wl-productvariation="0"
-                                  data-tinv-wl-productvariations="[0]"
-                                  data-tinv-wl-producttype="variable"
-                                  data-tinv-wl-action="add"
-                                  ><span class="tinvwl_add_to_wishlist-text"
-                                    >Add to Wishlist</span
-                                  ><span
-                                    class="tinvwl_remove_from_wishlist-text"
-                                    >Remove from Wishlist</span
-                                  ></a
-                                >
-                                <div class="tinv-wishlist-clear"></div>
-                                <div class="tinvwl-tooltip">
-                                  Add to Wishlist
-                                </div>
-                              </div>
-                              <a
-                                rel="nofollow"
-                                href="https://greeny.axiomthemes.com/product/charging-cord-for-cv-charger/"
-                                aria-hidden="true"
-                                data-quantity="1"
-                                data-product_id="2339"
-                                data-product_sku=""
-                                class="shop_cart icon-shopping-cart button add_to_cart_button product_type_variable product_in_stock"
-                                ><span class="icon-anim"></span
-                              ></a>
-                              <a
-                                href="https://greeny.axiomthemes.com/product/charging-cord-for-cv-charger/"
-                                aria-hidden="true"
-                                class="shop_link"
-                              >
-                                <span class="icon-anim"></span>
-                              </a>
-                            </div>
-                          </div>
-                          <div class="post_data">
-                            <div class="post_data_inner">
-                              <div class="post_header entry-header">
-                                <h2 class="woocommerce-loop-product__title">
-                                  <a
-                                    href="https://greeny.axiomthemes.com/product/charging-cord-for-cv-charger/"
-                                    >Charging Cord for CV Charger</a
-                                  >
-                                </h2>
-                              </div>
-
-                              <span class="price"
-                                ><span class="woocommerce-Price-amount amount"
-                                  ><bdi
-                                    ><span
-                                      class="woocommerce-Price-currencySymbol"
-                                      >&#36;</span
-                                    >2,900.00</bdi
-                                  ></span
-                                >
-                                &ndash;
-                                <span class="woocommerce-Price-amount amount"
-                                  ><bdi
-                                    ><span
-                                      class="woocommerce-Price-currencySymbol"
-                                      >&#36;</span
-                                    >3,500.00</bdi
-                                  ></span
-                                ></span
-                              >
-                              <a
-                                href="https://greeny.axiomthemes.com/product/charging-cord-for-cv-charger/"
-                                aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2339"
-                                data-quantity="1"
-                                class="button product_type_variable add_to_cart_button"
-                                data-product_id="2339"
-                                data-product_sku=""
-                                aria-label="Select options for &ldquo;Charging Cord for CV Charger&rdquo;"
-                                rel="nofollow"
-                                >Buy now</a
-                              >
-                              <span
-                                id="woocommerce_loop_add_to_cart_link_describedby_2339"
-                                class="screen-reader-text"
-                              >
-                                This product has multiple variants. The options
-                                may be chosen on the product page
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </li>
-                    </ul>
-                  </section>
-                </div>
+                  <div
+                    style="height: 100px"
+                    aria-hidden="true"
+                    class="wp-block-spacer small_spacer"
+                  ></div>
+                  <p>
+                    At vero eos et accusam et justo duo dolores et ea rebum.
+                    Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+                    ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+                    sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+                    labore et dolore magna aliquyam erat, sed diam voluptua. At
+                    vero eos et accusam et justo duo dolores et ea rebum. Stet
+                    clita kasd gubergren, no sea takimata sanctus est Lorem
+                    ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+                    sadipscing elitr.
+                  </p>
+                </section>
               </article>
             </div>
+            <div
+              class="sidebar widget_area right sidebar_below sidebar_default scheme_default"
+              role="complementary"
+            >
+              <span
+                id="sidebar_skip_link_anchor"
+                class="greeny_skip_link_anchor"
+              ></span>
+              <div class="sidebar_inner">
+                <aside class="widget widget_text">
+                  <h5 class="widget_title">Get in Touch</h5>
+                  <div class="textwidget">
+                    <div
+                      class="wpcf7 no-js"
+                      id="wpcf7-f6501-o1"
+                      lang="en-US"
+                      dir="ltr"
+                      data-wpcf7-id="6501"
+                    >
+                      <div class="screen-reader-response">
+                        <p
+                          role="status"
+                          aria-live="polite"
+                          aria-atomic="true"
+                        ></p>
+                        <ul></ul>
+                      </div>
+                      <form
+                        action="/services/charging-stations/#wpcf7-f6501-o1"
+                        method="post"
+                        class="wpcf7-form init"
+                        aria-label="Contact form"
+                        novalidate="novalidate"
+                        data-status="init"
+                      >
+                        <div style="display: none">
+                          <input type="hidden" name="_wpcf7" value="6501" />
+                          <input
+                            type="hidden"
+                            name="_wpcf7_version"
+                            value="6.0.6"
+                          />
+                          <input
+                            type="hidden"
+                            name="_wpcf7_locale"
+                            value="en_US"
+                          />
+                          <input
+                            type="hidden"
+                            name="_wpcf7_unit_tag"
+                            value="wpcf7-f6501-o1"
+                          />
+                          <input
+                            type="hidden"
+                            name="_wpcf7_container_post"
+                            value="0"
+                          />
+                          <input
+                            type="hidden"
+                            name="_wpcf7_posted_data_hash"
+                            value=""
+                          />
+                        </div>
+                        <div class="form-style-8">
+                          <div class="columns_wrap">
+                            <div class="column-1_1">
+                              <p>
+                                <span class="style-line"
+                                  ><span
+                                    class="wpcf7-form-control-wrap"
+                                    data-name="your-name"
+                                    ><input
+                                      size="40"
+                                      maxlength="400"
+                                      class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                                      aria-required="true"
+                                      aria-invalid="false"
+                                      placeholder="Name"
+                                      value=""
+                                      type="text"
+                                      name="your-name" /></span
+                                ></span>
+                              </p>
+                            </div>
+                          </div>
+                          <div class="columns_wrap">
+                            <div class="column-1_1">
+                              <p>
+                                <span class="style-line"
+                                  ><span
+                                    class="wpcf7-form-control-wrap"
+                                    data-name="your-email"
+                                    ><input
+                                      size="40"
+                                      maxlength="400"
+                                      class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email"
+                                      aria-required="true"
+                                      aria-invalid="false"
+                                      placeholder="Email"
+                                      value=""
+                                      type="email"
+                                      name="your-email" /></span
+                                ></span>
+                              </p>
+                            </div>
+                          </div>
+                          <div class="columns_wrap margin-bottom">
+                            <div class="column-1_1">
+                              <p>
+                                <span class="style-line"
+                                  ><span
+                                    class="wpcf7-form-control-wrap"
+                                    data-name="your-message"
+                                  >
+                                    <textarea
+                                      cols="40"
+                                      rows="10"
+                                      maxlength="2000"
+                                      class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required"
+                                      aria-required="true"
+                                      aria-invalid="false"
+                                      placeholder="Message"
+                                      name="your-message"
+                                    ></textarea></span
+                                ></span>
+                              </p>
+                            </div>
+                          </div>
+                          <p>
+                            <input
+                              class="wpcf7-form-control wpcf7-submit has-spinner"
+                              type="submit"
+                              value="Get In Touch"
+                            />
+                          </p>
+                        </div>
+                        <div
+                          class="wpcf7-response-output"
+                          aria-hidden="true"
+                        ></div>
+                      </form>
+                    </div>
+                  </div>
+                </aside>
+                <aside class="widget widget_contacts">
+                  <h5 class="widget_title">Contact Info</h5>
+                  <div class="contacts_wrap">
+                    <div class="contacts_info">
+                      <span class="contacts_address"
+                        >Germany — <br />
+                        785 15h Street, Office 478 <br />
+                        Berlin, De 81566</span
+                      ><span class="contacts_email"
+                        ><a
+                          href="/cdn-cgi/l/email-protection#a88e8b99989d93c6cec78e8b9e9c938e8b999899938e8b99989193c98e8b99989d93c4868e8b9191938e8b999999938e8b99989193"
+                          >in&#102;o&#64;e&#109;&#97;&#105;l.com</a
+                        ></span
+                      ><a href="tel:+18408412569" class="contacts_phone"
+                        >+1 840 841 25 69</a
+                      >
+                    </div>
+                  </div>
+                </aside>
+              </div>
+            </div>
+            <div class="clearfix"></div>
           </div>
         </div>
 
 @endsection
 
 @section('footer_scripts')
-<script>
+  <script>
       window.RS_MODULES = window.RS_MODULES || {};
       window.RS_MODULES.modules = window.RS_MODULES.modules || {};
       window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
@@ -4852,92 +4363,6 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
         }
       })();
     </script>
-    <script type="application/ld+json">
-      {
-        "@context": "https:\/\/schema.org\/",
-        "@graph": [
-          {
-            "@context": "https:\/\/schema.org\/",
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "item": {
-                  "name": "Home",
-                  "@id": "https:\/\/greeny.axiomthemes.com"
-                }
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "item": {
-                  "name": "Batteries",
-                  "@id": "https:\/\/greeny.axiomthemes.com\/product-category\/batteries\/"
-                }
-              },
-              {
-                "@type": "ListItem",
-                "position": 3,
-                "item": {
-                  "name": "Car Model A",
-                  "@id": "https:\/\/greeny.axiomthemes.com\/product\/car-model-a\/"
-                }
-              }
-            ]
-          },
-          {
-            "@context": "https:\/\/schema.org\/",
-            "@type": "Product",
-            "@id": "https:\/\/greeny.axiomthemes.com\/product\/car-model-a\/#product",
-            "name": "Car Model A",
-            "url": "https:\/\/greeny.axiomthemes.com\/product\/car-model-a\/",
-            "description": "Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum nonum eirmod dolor.\r\n\r\nAquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum.",
-            "image": "https:\/\/greeny.axiomthemes.com\/wp-content\/uploads\/2020\/05\/product-car3.jpg",
-            "sku": 2382,
-            "offers": [
-              {
-                "@type": "Offer",
-                "price": "40000.00",
-                "priceValidUntil": "2027-12-31",
-                "priceSpecification": {
-                  "price": "40000.00",
-                  "priceCurrency": "USD",
-                  "valueAddedTaxIncluded": "false"
-                },
-                "priceCurrency": "USD",
-                "availability": "http:\/\/schema.org\/InStock",
-                "url": "https:\/\/greeny.axiomthemes.com\/product\/car-model-a\/",
-                "seller": {
-                  "@type": "Organization",
-                  "name": "Greeny",
-                  "url": "https:\/\/greeny.axiomthemes.com"
-                }
-              }
-            ],
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "5.00",
-              "reviewCount": 1
-            },
-            "review": [
-              {
-                "@type": "Review",
-                "reviewRating": {
-                  "@type": "Rating",
-                  "bestRating": "5",
-                  "ratingValue": "5",
-                  "worstRating": "1"
-                },
-                "author": { "@type": "Person", "name": "Ashton Porter" },
-                "reviewBody": "At vero accusam et justo duo dolores et ea rebum.",
-                "datePublished": "2020-05-26T09:37:42+00:00"
-              }
-            ]
-          }
-        ]
-      }
-    </script>
     <script>
       const lazyloadRunObserver = () => {
         const lazyloadBackgrounds = document.querySelectorAll(
@@ -4966,61 +4391,6 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
         document.addEventListener(event, lazyloadRunObserver);
       });
     </script>
-
-    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="pswp__bg"></div>
-      <div class="pswp__scroll-wrap">
-        <div class="pswp__container">
-          <div class="pswp__item"></div>
-          <div class="pswp__item"></div>
-          <div class="pswp__item"></div>
-        </div>
-        <div class="pswp__ui pswp__ui--hidden">
-          <div class="pswp__top-bar">
-            <div class="pswp__counter"></div>
-            <button
-              class="pswp__button pswp__button--close"
-              aria-label="Close (Esc)"
-            ></button>
-            <button
-              class="pswp__button pswp__button--share"
-              aria-label="Share"
-            ></button>
-            <button
-              class="pswp__button pswp__button--fs"
-              aria-label="Toggle fullscreen"
-            ></button>
-            <button
-              class="pswp__button pswp__button--zoom"
-              aria-label="Zoom in/out"
-            ></button>
-            <div class="pswp__preloader">
-              <div class="pswp__preloader__icn">
-                <div class="pswp__preloader__cut">
-                  <div class="pswp__preloader__donut"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div
-            class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"
-          >
-            <div class="pswp__share-tooltip"></div>
-          </div>
-          <button
-            class="pswp__button pswp__button--arrow--left"
-            aria-label="Previous (arrow left)"
-          ></button>
-          <button
-            class="pswp__button pswp__button--arrow--right"
-            aria-label="Next (arrow right)"
-          ></button>
-          <div class="pswp__caption">
-            <div class="pswp__caption__center"></div>
-          </div>
-        </div>
-      </div>
-    </div>
     <script type="text/javascript">
       (function () {
         var c = document.body.className;
@@ -5143,6 +4513,29 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
       wp.i18n.setLocaleData({ "text direction\u0004ltr": ["ltr"] });
       /* ]]> */
     </script>
+    <script
+      type="text/javascript"
+      defer="defer"
+      src="https://greeny.axiomthemes.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6"
+      id="swv-js"
+    ></script>
+    <script type="text/javascript" id="contact-form-7-js-before">
+      /* <![CDATA[ */
+      var wpcf7 = {
+        api: {
+          root: "https:\/\/greeny.axiomthemes.com\/wp-json\/",
+          namespace: "contact-form-7\/v1",
+        },
+        cached: 1,
+      };
+      /* ]]> */
+    </script>
+    <script
+      type="text/javascript"
+      defer="defer"
+      src="https://greeny.axiomthemes.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6"
+      id="contact-form-7-js"
+    ></script>
 
     <script
       type="text/javascript"
@@ -5190,71 +4583,6 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
       type="text/javascript"
       src="https://greeny.axiomthemes.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.3.5"
       id="wc-add-to-cart-js"
-      defer="defer"
-      data-wp-strategy="defer"
-    ></script>
-    <script
-      type="text/javascript"
-      src="https://greeny.axiomthemes.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.9.3.5"
-      id="zoom-js"
-      defer="defer"
-      data-wp-strategy="defer"
-    ></script>
-    <script
-      type="text/javascript"
-      src="https://greeny.axiomthemes.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.9.3.5"
-      id="flexslider-js"
-      defer="defer"
-      data-wp-strategy="defer"
-    ></script>
-    <script
-      type="text/javascript"
-      src="https://greeny.axiomthemes.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.9.3.5"
-      id="photoswipe-js"
-      defer="defer"
-      data-wp-strategy="defer"
-    ></script>
-    <script
-      type="text/javascript"
-      src="https://greeny.axiomthemes.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.9.3.5"
-      id="photoswipe-ui-default-js"
-      defer="defer"
-      data-wp-strategy="defer"
-    ></script>
-    <script type="text/javascript" id="wc-single-product-js-extra">
-      /* <![CDATA[ */
-      var wc_single_product_params = {
-        i18n_required_rating_text: "Please select a rating",
-        review_rating_required: "yes",
-        flexslider: {
-          rtl: false,
-          animation: "slide",
-          smoothHeight: true,
-          directionNav: false,
-          controlNav: "thumbnails",
-          slideshow: false,
-          animationSpeed: 500,
-          animationLoop: false,
-          allowOneSlide: false,
-        },
-        zoom_enabled: "1",
-        zoom_options: [],
-        photoswipe_enabled: "1",
-        photoswipe_options: {
-          shareEl: false,
-          closeOnScroll: false,
-          history: false,
-          hideAnimationDuration: 0,
-          showAnimationDuration: 0,
-        },
-        flexslider_enabled: "1",
-      };
-      /* ]]> */
-    </script>
-    <script
-      type="text/javascript"
-      src="https://greeny.axiomthemes.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=9.3.5"
-      id="wc-single-product-js"
       defer="defer"
       data-wp-strategy="defer"
     ></script>
@@ -5410,7 +4738,7 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
         site_url: "https:\/\/greeny.axiomthemes.com",
         plugin_url:
           "https:\/\/greeny.axiomthemes.com\/wp-content\/plugins\/trx_addons\/",
-        post_id: "2382",
+        post_id: "20106",
         vc_edit_mode: "",
         is_preview: "",
         is_preview_gb: "",
@@ -5588,12 +4916,6 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     <script
       type="text/javascript"
       defer="defer"
-      src="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/api/woocommerce/woocommerce.js"
-      id="trx_addons-woocommerce-js"
-    ></script>
-    <script
-      type="text/javascript"
-      defer="defer"
       src="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/cpt/layouts/shortcodes/menu/superfish.min.js"
       id="superfish-js"
     ></script>
@@ -5605,8 +4927,20 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     <script
       type="text/javascript"
       defer="defer"
+      src="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/api/contact-form-7/contact-form-7.js"
+      id="trx_addons-cf7-js"
+    ></script>
+    <script
+      type="text/javascript"
+      defer="defer"
       src="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/api/mailchimp-for-wp/mailchimp-for-wp.js"
       id="trx_addons-mailchimp-js"
+    ></script>
+    <script
+      type="text/javascript"
+      defer="defer"
+      src="https://greeny.axiomthemes.com/wp-content/plugins/trx_addons/components/api/woocommerce/woocommerce.js"
+      id="trx_addons-woocommerce-js"
     ></script>
     <script type="text/javascript" id="greeny-init-js-extra">
       /* <![CDATA[ */
@@ -5647,14 +4981,6 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
       defer="defer"
       src="https://greeny.axiomthemes.com/wp-content/themes/greeny/js/__scripts.js"
       id="greeny-init-js"
-    ></script>
-    <script
-      type="text/javascript"
-      defer="defer"
-      src="https://greeny.axiomthemes.com/wp-includes/js/comment-reply.min.js?ver=6.8.3"
-      id="comment-reply-js"
-      async="async"
-      data-wp-strategy="async"
     ></script>
     <script type="text/javascript" id="mediaelement-core-js-before">
       /* <![CDATA[ */
@@ -5777,12 +5103,6 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
     ></script>
     <script
       type="text/javascript"
-      defer="defer"
-      src="https://greeny.axiomthemes.com/wp-content/themes/greeny/plugins/woocommerce/woocommerce.js"
-      id="greeny-woocommerce-js"
-    ></script>
-    <script
-      type="text/javascript"
       defer
       src="https://greeny.axiomthemes.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.10.3"
       id="mc4wp-forms-api-js"
@@ -5902,12 +5222,12 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
           lightbox_description_src: "description",
         },
         post: {
-          id: 2382,
-          title: "Car%20Model%20A%20%E2%80%93%20Greeny",
+          id: 20106,
+          title: "Charging%20Stations%20%E2%80%93%20Greeny",
           excerpt:
-            "Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum nonum eirmod dolor.\r\n\r\nAquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum.",
+            "Consectetur adipiscing elit, sed do eiusmod tempo adipiscing elit, sed do eius.",
           featuredImage:
-            "https:\/\/greeny.axiomthemes.com\/wp-content\/uploads\/2020\/05\/product-car3-1024x1024.jpg",
+            "https:\/\/greeny.axiomthemes.com\/wp-content\/uploads\/2022\/03\/home3-image1-1024x853.jpg",
         },
       };
       var elementorFrontendConfig = {
@@ -6013,12 +5333,12 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
           lightbox_description_src: "description",
         },
         post: {
-          id: 2382,
-          title: "Car%20Model%20A%20%E2%80%93%20Greeny",
+          id: 20106,
+          title: "Charging%20Stations%20%E2%80%93%20Greeny",
           excerpt:
-            "Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum nonum eirmod dolor.\r\n\r\nAquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum.",
+            "Consectetur adipiscing elit, sed do eiusmod tempo adipiscing elit, sed do eius.",
           featuredImage:
-            "https:\/\/greeny.axiomthemes.com\/wp-content\/uploads\/2020\/05\/product-car3-1024x1024.jpg",
+            "https:\/\/greeny.axiomthemes.com\/wp-content\/uploads\/2022\/03\/home3-image1-1024x853.jpg",
         },
       };
       /* ]]> */
@@ -6028,9 +5348,21 @@ Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore ma
       src="https://greeny.axiomthemes.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.28.4"
       id="elementor-frontend-js"
     ></script>
+    <script
+      type="text/javascript"
+      defer="defer"
+      src="https://greeny.axiomthemes.com/wp-content/themes/greeny/plugins/contact-form-7/contact-form-7.js"
+      id="greeny-contact-form-7-js"
+    ></script>
+    <script
+      type="text/javascript"
+      defer="defer"
+      src="https://greeny.axiomthemes.com/wp-content/themes/greeny/plugins/woocommerce/woocommerce.js"
+      id="greeny-woocommerce-js"
+    ></script>
     <script>
       TRX_DEMO_STORAGE["tabs_layout"] =
-        '		<div class="trx_demo_panels trx_demo_tabs_position_rc trx_demo_tabs_style_icons" style="width:320px;">  			<div class="trx_demo_tabs"> 				<a class="hint_left hint_big hint_slide" href="https://1.envato.market/AoMk5a" 						 target="_blank"						aria-label="Buy theme" 						data-type="link" 						style="color:#ffffff;background-color:#a8c62e;" 					><i class="trx_demo_icon-shopping-cart"></i></a><a class="hint_left hint_big hint_slide" href="#panel_related-themes" 												aria-label="Our Bestsellers" 						data-type="products" 						style="color:#141541;background-color:#a8c62e;" 					><i class="trx_demo_icon-gallery"></i></a><a class="hint_left hint_big hint_slide" href="https://greeny.axiomthemes.com?notabs=1" 												aria-label="Hide panel" 						data-type="link" 						style="color:#141541;background-color:#a8c62e;" 					><i class="trx_demo_icon-browser"></i></a>			</div>  			<div class="trx_demo_panels_wrap"> 				<div id="panel_related-themes" 							class="trx_demo_panel 									trx_demo_panel_products									trx_demo_panel_thumbs_animation_off									trx_demo_panel_layout_1col									trx_demo_panel_style_plain" 							style="" 					><div class="trx_demo_panel_header"><h5 class="trx_demo_panel_title" style="">Our Bestsellers</h5></div><div class="trx_demo_panel_content"><div class="trx_demo_panel_list"><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,business" data-search-value="elementra"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2025/08/59-elementra.jpg);"> 															<a href="http://demo.themerex.net/?theme=elementra" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=elementra" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;69</del>&nbsp;&#036;59</span>Elementra<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Business</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,business,news-editorial" data-search-value="qwery"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Qwery-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=qwery" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=qwery" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;75</del>&nbsp;&#036;59</span>Qwery<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Business</span><span class="trx_demo_panel_list_item_term">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,technology" data-search-value="ann"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Ann-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=ann" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=ann" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;79</span>ANN<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Technology</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,buddypress,wordpress-themes" data-search-value="anesta"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Anesta-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=anesta" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=anesta" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;79</del>&nbsp;&#036;69</span>Anesta<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">BuddyPress</span><span class="trx_demo_panel_list_item_term">WordPress Themes</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,blog-magazine,news-editorial" data-search-value="kicker"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Kicker-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=kicker" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=kicker" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;75</del>&nbsp;&#036;59</span>Kicker<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Blog / Magazine</span><span class="trx_demo_panel_list_item_term">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,health-beauty,news-editorial" data-search-value="jacqueline"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Jacqueline-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=jacqueline" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=jacqueline" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;79</span>Jacqueline<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Health &amp; Beauty</span><span class="trx_demo_panel_list_item_term">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,entertainment,news-editorial" data-search-value="fc united"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/FC-United-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=fc-united" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=fc-united" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;79</span>FC United<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Entertainment</span><span class="trx_demo_panel_list_item_term">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="portfolio" data-search-value="helion"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2020/01/Helion-home-min.jpg);"> 															<a href="http://demo.themerex.net/?theme=helion" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=helion" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;69</span>Helion<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Portfolio</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="news-editorial" data-search-value="blabber"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2020/01/Blabber_home-min.jpg);"> 															<a href="http://demo.themerex.net/?theme=blabber" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=blabber" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;69</span>Blabber<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="directory-listings" data-search-value="alliance"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/02/Screenshot_1.png);"> 															<a href="http://demo.themerex.net/?theme=alliance" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=alliance" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;69</span>Alliance<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Directory &amp; Listings</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item" data-filter-value="bestsellers,business,corporate" data-search-value="business"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2025/12/Business-Admin.jpg);"> 															<a href="http://demo.themerex.net/?theme=business" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=business" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;69</del>&nbsp;&#036;19</span>Business<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Business</span><span class="trx_demo_panel_list_item_term">Corporate</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item" data-filter-value="bestsellers,business,corporate" data-search-value="flexify"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2025/07/Flexify-Primary-Preview-10.51.47.jpg);"> 															<a href="http://demo.themerex.net/?theme=flexify" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=flexify" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;69</del>&nbsp;&#036;19</span>Flexify<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Business</span><span class="trx_demo_panel_list_item_term">Corporate</span></span></a> 												</h6> 																							</div> 										</div></div></div><div class="trx_demo_panel_footer"><a class="trx_demo_panel_button sc_button theme_button trx_demo_inline_1413529933 trx_demo_inline_972685958" href="https://themeforest.net/item/elementra-100-elementor-wordpress-theme/57242915" target="_blank">Sale</a></div></div></div> 			<span class="trx_demo_button_close"><span class="trx_demo_button_close_icon"></span></span>  		</div>  		<div class="trx_demo_panels_mask"></div> 		';
+        '		<div class="trx_demo_panels trx_demo_tabs_position_rc trx_demo_tabs_style_icons" style="width:320px;">  			<div class="trx_demo_tabs"> 				<a class="hint_left hint_big hint_slide" href="https://1.envato.market/AoMk5a" 						 target="_blank"						aria-label="Buy theme" 						data-type="link" 						style="color:#ffffff;background-color:#a8c62e;" 					><i class="trx_demo_icon-shopping-cart"></i></a><a class="hint_left hint_big hint_slide" href="#panel_related-themes" 												aria-label="Our Bestsellers" 						data-type="products" 						style="color:#141541;background-color:#a8c62e;" 					><i class="trx_demo_icon-gallery"></i></a><a class="hint_left hint_big hint_slide" href="https://greeny.axiomthemes.com?notabs=1" 												aria-label="Hide panel" 						data-type="link" 						style="color:#141541;background-color:#a8c62e;" 					><i class="trx_demo_icon-browser"></i></a>			</div>  			<div class="trx_demo_panels_wrap"> 				<div id="panel_related-themes" 							class="trx_demo_panel 									trx_demo_panel_products									trx_demo_panel_thumbs_animation_off									trx_demo_panel_layout_1col									trx_demo_panel_style_plain" 							style="" 					><div class="trx_demo_panel_header"><h5 class="trx_demo_panel_title" style="">Our Bestsellers</h5></div><div class="trx_demo_panel_content"><div class="trx_demo_panel_list"><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,business" data-search-value="elementra"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2025/08/59-elementra.jpg);"> 															<a href="http://demo.themerex.net/?theme=elementra" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=elementra" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;69</del>&nbsp;&#036;59</span>Elementra<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Business</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,business,news-editorial" data-search-value="qwery"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Qwery-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=qwery" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=qwery" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;75</del>&nbsp;&#036;59</span>Qwery<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Business</span><span class="trx_demo_panel_list_item_term">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,technology" data-search-value="ann"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Ann-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=ann" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=ann" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;79</span>ANN<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Technology</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,buddypress,wordpress-themes" data-search-value="anesta"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Anesta-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=anesta" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=anesta" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;79</del>&nbsp;&#036;69</span>Anesta<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">BuddyPress</span><span class="trx_demo_panel_list_item_term">WordPress Themes</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,blog-magazine,news-editorial" data-search-value="kicker"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Kicker-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=kicker" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=kicker" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;75</del>&nbsp;&#036;59</span>Kicker<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Blog / Magazine</span><span class="trx_demo_panel_list_item_term">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,health-beauty,news-editorial" data-search-value="jacqueline"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/Jacqueline-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=jacqueline" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=jacqueline" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;79</span>Jacqueline<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Health &amp; Beauty</span><span class="trx_demo_panel_list_item_term">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="bestsellers,entertainment,news-editorial" data-search-value="fc united"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/03/FC-United-Preview.jpg);"> 															<a href="http://demo.themerex.net/?theme=fc-united" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=fc-united" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;79</span>FC United<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Entertainment</span><span class="trx_demo_panel_list_item_term">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="portfolio" data-search-value="helion"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2020/01/Helion-home-min.jpg);"> 															<a href="http://demo.themerex.net/?theme=helion" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=helion" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;69</span>Helion<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Portfolio</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="news-editorial" data-search-value="blabber"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2020/01/Blabber_home-min.jpg);"> 															<a href="http://demo.themerex.net/?theme=blabber" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=blabber" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;69</span>Blabber<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">News / Editorial</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item trx_demo_featured" data-filter-value="directory-listings" data-search-value="alliance"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2024/02/Screenshot_1.png);"> 															<a href="http://demo.themerex.net/?theme=alliance" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=alliance" target="_blank"><span class="trx_demo_panel_list_item_price">&#036;69</span>Alliance<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Directory &amp; Listings</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item" data-filter-value="bestsellers,business,corporate" data-search-value="business"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2025/12/Business-Admin.jpg);"> 															<a href="http://demo.themerex.net/?theme=business" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=business" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;69</del>&nbsp;&#036;19</span>Business<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Business</span><span class="trx_demo_panel_list_item_term">Corporate</span></span></a> 												</h6> 																							</div> 										</div><div class="trx_demo_panel_list_item" data-filter-value="bestsellers,business,corporate" data-search-value="flexify"> 											<div class="trx_demo_panel_list_item_image_wrap"> 																									<div class="trx_demo_panel_list_item_image trx_demo_panel_list_item_image_ratio_16_9" 														style="background-image: url(https://greeny.axiomthemes.com/wp-content/plugins/trx_demo/images/no-thumb.gif);background-position:center;background-repeat:no-repeat;background-size:cover;" 														data-style="background-image: url(//themerex.net/wp-content/uploads/edd/2025/07/Flexify-Primary-Preview-10.51.47.jpg);"> 															<a href="http://demo.themerex.net/?theme=flexify" target="_blank"></a> 													</div> 													<h6 class="trx_demo_panel_list_item_title"> 													<a href="http://demo.themerex.net/?theme=flexify" target="_blank"><span class="trx_demo_panel_list_item_price"><del>&#036;69</del>&nbsp;&#036;19</span>Flexify<span class="trx_demo_panel_list_item_terms"><span class="trx_demo_panel_list_item_term">Bestsellers</span><span class="trx_demo_panel_list_item_term">Business</span><span class="trx_demo_panel_list_item_term">Corporate</span></span></a> 												</h6> 																							</div> 										</div></div></div><div class="trx_demo_panel_footer"><a class="trx_demo_panel_button sc_button theme_button trx_demo_inline_362352548 trx_demo_inline_551943809" href="https://themeforest.net/item/elementra-100-elementor-wordpress-theme/57242915" target="_blank">Sale</a></div></div></div> 			<span class="trx_demo_button_close"><span class="trx_demo_button_close_icon"></span></span>  		</div>  		<div class="trx_demo_panels_mask"></div> 		';
     </script>
     <script
       src="https://code.tidio.co/ctybgkiqd4jhsgdvzlgahqx3pjybdwlg.js"
