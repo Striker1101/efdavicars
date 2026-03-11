@@ -20,10 +20,8 @@ Route::get('/wishlist', [PagesController::class, 'wishlist'])->name('wishlist');
 Route::get('/cart', [PagesController::class, 'cart'])->name('cart');
 Route::get('/vote', [PagesController::class, 'vote'])->name('vote');
 
-Route::get('/service/change', [PagesController::class, 'service'])->name('service.change');
-Route::get('/service/serve', [PagesController::class, 'service'])->name('service.serve');
-Route::get('/service/price', [PagesController::class, 'service'])->name('service.price');
-Route::get('/service/nature', [PagesController::class, 'service'])->name('service.nature');
+Route::get('/service/{id}', [PagesController::class, 'service_detail'])->name('service.show');
+Route::get('/service', [PagesController::class, 'service'])->name('service');
 
 Route::post('/contact', [PagesController::class, 'submitContact'])->name('contact.submit');
 Route::post('/review', [PagesController::class, 'submitReview'])->name('review.submit');
