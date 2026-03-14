@@ -276,13 +276,12 @@
     {{-- how it works  --}}
     <section class="py-24 relative overflow-hidden bg-[#1A1B3F]">
         <div class="absolute inset-0 z-0">
-            <img src="{{ config('custom.working_process_bg') }}" class="w-full h-full object-cover opacity-20"
+            <img src="{{ asset(config('custom.working_process_bg')) }}" class="w-full h-full object-cover opacity-20"
                 alt="Background">
             <div class="absolute inset-0 bg-gradient-to-b from-[#1A1B3F] via-transparent to-[#1A1B3F]"></div>
         </div>
 
         <div class="max-w-7xl mx-auto px-6 relative z-10">
-
             <div class="text-center mb-20">
                 <h4 class="text-[#A3D133] font-bold uppercase tracking-[0.3em] text-sm mb-4">Working Process</h4>
                 <h2 class="text-4xl md:text-5xl font-black text-white">How We Work For You</h2>
@@ -527,7 +526,7 @@
         <div class="flex flex-col lg:flex-row min-h-[600px]">
 
             <div class="w-full lg:w-1/2 relative min-h-[400px] lg:min-h-full">
-                <img src="{{ config('custom.promo_section.image') }}" alt="Promo Car"
+                <img src="{{ asset(config('custom.promo_section.image')) }}" alt="Promo Car"
                     class="absolute inset-0 w-full h-full object-cover">
                 <div class="absolute inset-0 bg-gradient-to-r from-transparent to-[#1A1B3F]/20"></div>
             </div>
@@ -667,7 +666,7 @@
     {{-- news letter --}}
     <section class="relative py-24 overflow-hidden">
         <div class="absolute inset-0 z-0">
-            <img src="{{ config('custom.stats_bg') }}" class="w-full h-full object-cover bg-fixed"
+            <img src="{{ asset(config('custom.stats_bg')) }}" class="w-full h-full object-cover bg-fixed"
                 alt="Stats Background">
             <div class="absolute inset-0 bg-[#1A1B3F]/90 mix-blend-multiply"></div>
             <div class="absolute inset-0 bg-gradient-to-r from-[#1A1B3F] via-transparent to-[#A3D133]/10"></div>
