@@ -88,11 +88,11 @@
 
                 <div class="w-full lg:w-1/2 relative">
                     <div class="relative z-10 rounded-2xl overflow-hidden shadow-2xl">
-                        <img src="{{ asset('images/home/home1-image1.png') }}" alt="About Us"
+                        <img src="{{ asset('images/home/home1-image1.jpg') }}" alt="About Us"
                             class="w-full h-auto object-cover">
                     </div>
 
-                    <div
+                    {{-- <div
                         class="absolute -bottom-10 -right-6 md:right-10 z-20 bg-[#A3D133] p-8 text-white shadow-xl rounded-sm">
                         <div class="flex items-center space-x-4">
                             <span class="text-5xl font-black">{{ config('about_section.experience_years') }}</span>
@@ -100,7 +100,7 @@
                                 {!! str_replace(' ', '<br>', config('about_section.experience_text')) !!}
                             </p>
                         </div>
-                    </div>
+                    </div> --}}
 
                     <div class="absolute -top-6 -left-6 w-32 h-32 border-8 border-gray-100 -z-0"></div>
                 </div>

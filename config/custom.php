@@ -3,13 +3,13 @@
 return [
     'title' => 'Efdavi Cars',
     'password' => '1234',
-    'email' => 'support@efdavicars.ng',
-    'link_phone_one' => '+447848161409',
-    'phone_one' => '+44(784)8161409',
-    'link_phone_two' => '+13322526857',
-    'phone_two' => '+1(33)22526857',
-    'fb' => '#',
-    'ins' => '#',
+    'email' => 'efdavicars@gmail.com',
+    'link_phone_one' => '+2349054812148',
+    'phone_one' => '+2349054812148',
+    'link_phone_two' => '',
+    'phone_two' => '',
+    'fb' => 'https://www.facebook.com/share/1BNATZCVam/?mibextid=wwXIfr',
+    'ins' => 'https://www.instagram.com/efdavi_cars?igsh=MXVlcDU0bnRhY3p6Yg%3D%3D&utm_source=qr',
     'twi' => '#',
     'pin' => '#',
     'you' => "",
@@ -48,7 +48,7 @@ return [
         ],
     ],
     'promo_section' => [
-        'image' => 'images/home/post-image5-890x664.png',//
+        'image' => 'images/home/post-image5-890x664.jpg', //
         'subtitle' => 'Unbeatable Performance',
         'title' => 'Experience The Future of Driving Excellence',
         'description' => 'Whether you are looking for a fuel-efficient commuter or a high-performance luxury sedan, our curated selection meets the highest standards of automotive engineering.',
@@ -61,7 +61,7 @@ return [
         'button_link' => '#',
     ],
     // config/custom.php
-    'stats_bg' => 'images/bg-newsletter.png',//
+    'stats_bg' => 'images/bg-newsletter.png', //
 
     'stats' => [
         [
@@ -93,5 +93,5 @@ return [
     'newsletter_bg' => 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=1920',
     'contact_hero_bg' => 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1920',
     'shop_hero_bg' => 'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&q=80&w=1920',
-    'services_hero_bg' => 'images/home5-background3.png',//
+    'services_hero_bg' => 'images/home5-background3.png', //
 ];

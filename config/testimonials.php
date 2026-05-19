@@ -6,7 +6,7 @@ return  [
         'name' => 'John D. Alex',
         'position' => 'Business Owner',
         'type' => 'image',
-        'media' => 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=800',
+        'media' => 'images/home/tes1.jpg',
         'quote' => 'The vehicle selection is unmatched. I found the perfect car for my business needs with zero stress.',
         'rating' => 5
     ],
@@ -14,8 +14,8 @@ return  [
         'id' => 2,
         'name' => 'Sarah Jenkins',
         'position' => 'Marketing Director',
-        'type' => 'video',
-        'media' => 'https://www.w3schools.com/html/mov_bbb.mp4', // Example video
+        'type' => 'image',
+        'media' => 'images/home/tes2.jpg', // Example video
         'quote' => 'Watching the transition to green energy has been amazing. Their service is truly top-tier.',
         'rating' => 5
     ],
@@ -24,7 +24,7 @@ return  [
         'name' => 'Robert Fox',
         'position' => 'Car Collector',
         'type' => 'image',
-        'media' => 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=800',
+        'media' => 'images/home/tes3.jpg',
         'quote' => 'I have bought several luxury cars here. The attention to detail and after-sales support is world-class.',
         'rating' => 4
     ],
